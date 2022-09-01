@@ -16,6 +16,7 @@ SOCRtrack_Nas = read_csv('SOCR2forreal_NAs.csv')
 SOCRtrack_Nas$Date=mdy(SOCRtrack_Nas$Date)
 SOCRtrack_Nas$month<- month(SOCRtrack_Nas$Date)
 
+
 SOCRtrack_Nas= subset(SOCRtrack_Nas, select = c(Company, Date, Agreements, User, Task))
 
 timeline <- ggplot(SOCRtrack_Nas, aes(x= Date, y=Agreements))+

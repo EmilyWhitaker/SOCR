@@ -40,7 +40,7 @@ timeline_SV <- ggplot(SOCRSVs_noNA, aes(x= Date, y=Agreements))+
   theme_bw() +
   facet_grid('User')
 timeline_SV
-ggsave("Romil_Nivi_companies.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("Romil_Nivi_companies_alltime.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 
@@ -105,7 +105,7 @@ SOCR_SVTeam_Totals_time <- ggplot(SOCR_SVTeam_Totals, aes(x= Date, y=Agreements)
   facet_grid('User')
 SOCR_SVTeam_Totals_time
 
-ggsave("Romil_Nivi_totals.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("Romil_Nivi_totals_alltime.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 
@@ -134,6 +134,6 @@ SOCR_SVTeam_Totals_Task_time <- ggplot(SOCR_SVTeam_Totals_Task, aes(x= Date, y=A
   facet_grid('User')
 SOCR_SVTeam_Totals_Task_time
 
-ggsave("Romil_Nivi_totals_byTask.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("Romil_Nivi_totals_byTask_alltime.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 

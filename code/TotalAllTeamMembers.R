@@ -11,18 +11,16 @@ library(lubridate)
 library(patchwork)
 library(scales)
 
+######
 
-SOCRtrack_Nas = read_csv('data/SOCR2forreal_NAs.csv')
-SOCRtrack_Nas$Date=mdy(SOCRtrack_Nas$Date)
-SOCRtrack_Nas$month<- month(SOCRtrack_Nas$Date)
+# combo of all agreements and type of work breakdown 
 
+SOCR_work_by_Task_Type<- rbind (SOCR_work_pp, SOCR_SVTeam_Totals_Task)
 
-SOCRtrack_Nas= subset(SOCRtrack_Nas, select = c(Company, Date, Agreements, User, Task))
-
-timeline <- ggplot(SOCRtrack_Nas, aes(x= Date, y=Agreements))+
+SOCR_AllTeam_Totals_Task_time <- ggplot(SOCR_work_by_Task_Type, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
-  aes(color = Company)+ 
+  aes(color = Task)+ 
   #ylim(0,200)+
   geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
@@ -38,54 +36,17 @@ timeline <- ggplot(SOCRtrack_Nas, aes(x= Date, y=Agreements))+
   geom_vline(xintercept = as.numeric(as.Date("2022-08-31")), linetype=3)+
   theme_bw() +
   facet_grid('User')
-  
-timeline
-#ggsave("MMTE.png", plot = last_plot(), height = 10, width = 12, units = "in")
+SOCR_AllTeam_Totals_Task_time
+ggsave("All_members_totals_TaskType.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
-#totals per week per person
-
-SOCRtrack1 = read_csv('data/SOCR2forreal.csv')
-SOCRtrack1$Date=mdy(SOCRtrack1$Date)
-SOCRtrack1$month<- month(SOCRtrack1$Date)
-
-SOCRtrack1= subset(SOCRtrack1, select = c(Company, Date, Agreements, User, Task))
-
-SOCRtrack_Maddy <-filter(SOCRtrack1, User == 'Maddy')
-#SOCRtrack_perperson_Maddy  <- aggregate(SOCRtrack_Maddy["Agreements"], by=SOCRtrack_Maddy["Date"], sum)
-SOCRtrack_Maddy_2  <- aggregate(SOCRtrack_Maddy$Agreements, by = list(SOCRtrack_Maddy$Date, SOCRtrack_Maddy$User, SOCRtrack_Maddy$Task), FUN = sum)
-
-SOCRtrack_Maddy_2<-SOCRtrack_Maddy_2 %>%
-  rename( 'Date'=Group.1, 
-          'User'= Group.2,
-          'Task' = Group.3,
-          "Agreements"= x)
-
-SOCRtrack_Emily_1=subset(SOCRtrack1, User== 'Emily')
-SOCRtrack_Emily_2  <- aggregate(SOCRtrack_Emily_1$Agreements, by = list(SOCRtrack_Emily_1$Date, SOCRtrack_Emily_1$User,SOCRtrack_Emily_1$Task ), FUN = sum)
+###Not by Task 
+SOSOCR_work_pp_no_task= subset(SOCR_work_pp, select = c(Date, User, Agreements))
 
 
-SOCRtrack_Emily_2<-SOCRtrack_Emily_2 %>%
-  rename( 'Date'=Group.1, 
-          'User'= Group.2,
-          'Task' = Group.3,
-          "Agreements"= x)
+SOCR_work_by_Person<- rbind (SOSOCR_work_pp_no_task, SOCR_SVTeam_Totals)
 
 
-SOCRtrack_Mat <-filter(SOCRtrack1, User == 'Mat')
-SOCRtrack_perperson_Mat  <- aggregate(SOCRtrack_Mat["Agreements"], by=SOCRtrack_Mat["Date"], sum)
-
-SOCRtrack_Tanya <-filter(SOCRtrack1, User == 'Mat')
-SOCRtrack_perperson_Tanya  <- aggregate(SOCRtrack_Tanya["Agreements"], by=SOCRtrack_Tanya["Date"], sum)
-
-SOCR_work_pp<- rbind (SOCRtrack_Maddy_2, SOCRtrack_Emily_2)
-
-
-SOCR_work_pp2<-SOCR_work_pp %>%
-  rename( 'Maddy'=Agreements.x, 
-          'Emily'= Agreements.y)
-
-
-timeline2 <- ggplot(SOCR_work_pp, aes(x= Date, y=Agreements))+
+SOCR_AllTeam_Totals_time <- ggplot(SOCR_work_by_Person, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
   #ylim(0,200)+
@@ -103,7 +64,5 @@ timeline2 <- ggplot(SOCR_work_pp, aes(x= Date, y=Agreements))+
   geom_vline(xintercept = as.numeric(as.Date("2022-08-31")), linetype=3)+
   theme_bw() +
   facet_grid('User')
-timeline2
 
-#ggsave("Maddy_and_Emily_totals.png", plot = last_plot(), height = 10, width = 12, units = "in")
-
+SOCR_AllTeam_Totals_time

@@ -41,8 +41,6 @@ ggsave("All_members_totals_TaskType.png", plot = last_plot(), height = 10, width
 
 ###Not by Task 
 SOSOCR_work_pp_no_task= subset(SOCR_work_pp, select = c(Date, User, Agreements))
-
-
 SOCR_work_by_Person<- rbind (SOSOCR_work_pp_no_task, SOCR_SVTeam_Totals)
 
 
@@ -66,3 +64,6 @@ SOCR_AllTeam_Totals_time <- ggplot(SOCR_work_by_Person, aes(x= Date, y=Agreement
   facet_grid('User')
 
 SOCR_AllTeam_Totals_time
+
+ggsave("All_members_totals.png", plot = last_plot(), height = 10, width = 12, units = "in")
+

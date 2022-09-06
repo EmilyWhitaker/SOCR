@@ -69,6 +69,7 @@ SOCR_Totals_Task_time <- ggplot(SOCR_work_by_Task_Type_Agg, aes(x= Date, y=Agree
   facet_grid('Task')
 SOCR_Totals_Task_time
 
+ggsave("AllTaskType.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 

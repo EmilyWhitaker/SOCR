@@ -189,6 +189,4 @@ timeline_SV_Aug <- ggplot(SOCRSVs_noNA_Aug, aes(x= Date, y=Agreements))+
 timeline_SV_Aug
 ggsave("Task_SVs_Aug_2022_limit.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
-##### OCR QBRS
-
-
+#####

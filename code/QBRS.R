@@ -190,5 +190,44 @@ timeline_SV_Aug
 ggsave("Task_SVs_Aug_2022_limit.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 ##### OCR QBRS
+SOCRtrack_Nas
 
+SOCRtrack_Nas_Q1<- subset(SOCRtrack_Nas, SOCRtrack_Nas$Date> "2022-01-01" & SOCRtrack_Nas$Date < "2022-03-31")
+
+timeline_OCR_Q1 <- ggplot(SOCRtrack_Nas_Q1, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+  
+  ggtitle("OCR Fixes Q1 2022")+
+  aes(color = Company)+ 
+  # ylim(0,200)+
+  theme_bw() +
+  facet_grid('User')
+timeline_OCR_Q1
+ggsave("Task_OCR_Q1_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+SOCRtrack_Nas_Q2<- subset(SOCRtrack_Nas, SOCRtrack_Nas$Date> "2022-04-01" & SOCRtrack_Nas$Date < "2022-06-30")
+
+timeline_OCR_Q2 <- ggplot(SOCRtrack_Nas_Q2, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  ggtitle("OCR Fixes Q2 2022")+
+  aes(color = Company)+ 
+  # ylim(0,200)+
+  theme_bw() +
+  facet_grid('User')
+timeline_OCR_Q2
+ggsave("Task_OCR_Q2_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+SOCRSVs_noNA_Q3<- subset(SOCRSVs_noNA, SOCRSVs_noNA$Date> "2022-07-01" & SOCRSVs_noNA$Date < "2022-09-30")
+
+timeline_SV_Q3 <- ggplot(SOCRSVs_noNA_Q3, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  ggtitle("Smart Value and Party Fixes Q3 2022- ylimit")+
+  aes(color = Company)+ 
+  ylim(0,200)+
+  theme_bw() +
+  facet_grid('User')
+timeline_SV_Q3
+ggsave("Task_SVs_Q3_ylim_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
 

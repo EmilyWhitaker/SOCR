@@ -135,33 +135,45 @@ ggsave("Task_aug_2022.png", plot = last_plot(), height = 10, width = 12, units =
 
 ###### Client based QBRs
 
+#SOSOCR_work_pp_no_task_Q3 <- subset(SOCR_work_by_Person, SOCR_work_by_Person$Date> "2022-07-01" & SOCR_work_by_Person$Date < "2022-09-30")
 
-SOCR_work_All<- rbind (SOCRSVs, SOCRtrack_Nas)
+SOCRSVs_noNA_Q1<- subset(SOCRSVs_noNA, SOCRSVs_noNA$Date> "2022-01-01" & SOCRSVs_noNA$Date < "2022-03-31")
 
-
-SOCR_work_All$Date=ymd(SOCR_work_All$Date)
-
-SOCR_work_client_Q2 <- subset(SOCR_work_All, SOCR_work_All$Date < "2022-06-31")
-
-
-
-timeline <- ggplot(SOCRtrack_Nas, aes(x= Date, y=Agreements))+
+timeline_SV_Q1 <- ggplot(SOCRSVs_noNA_Q1, aes(x= Date, y=Agreements))+
   geom_line()+
-  geom_point(size=4)+
+  geom_point(size=4)+  
+  ggtitle("Smart Value and Party Fixes Q1 2022")+
   aes(color = Company)+ 
-  #ylim(0,200)+
-  geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-09-30")), linetype=1)+
-  geom_vline(xintercept = as.numeric(as.Date("2021-10-31")), linetype=3)+
-  geom_vline(xintercept = as.numeric(as.Date("2021-11-30")), linetype=3)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-01-31")), linetype=3)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-02-28")), linetype=3)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-04-30")), linetype=3)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-05-31")), linetype=3)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-07-30")), linetype=3)+
-  geom_vline(xintercept = as.numeric(as.Date("2022-08-31")), linetype=3)+
+  # ylim(0,200)+
   theme_bw() +
   facet_grid('User')
+timeline_SV_Q1
+ggsave("Task_SVs_Q1_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
+SOCRSVs_noNA_Q2<- subset(SOCRSVs_noNA, SOCRSVs_noNA$Date> "2022-04-01" & SOCRSVs_noNA$Date < "2022-06-30")
+
+timeline_SV_Q2 <- ggplot(SOCRSVs_noNA_Q2, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  ggtitle("Smart Value and Party Fixes Q2 2022")+
+  aes(color = Company)+ 
+  # ylim(0,200)+
+  theme_bw() +
+  facet_grid('User')
+timeline_SV_Q2
+ggsave("Task_SVs_Q2_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+SOCRSVs_noNA_Q3<- subset(SOCRSVs_noNA, SOCRSVs_noNA$Date> "2022-07-01" & SOCRSVs_noNA$Date < "2022-09-30")
+
+timeline_SV_Q3 <- ggplot(SOCRSVs_noNA_Q3, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  ggtitle("Smart Value and Party Fixes Q3 2022- ylimit")+
+  aes(color = Company)+ 
+  ylim(0,200)+
+  theme_bw() +
+  facet_grid('User')
+timeline_SV_Q3
+ggsave("Task_SVs_Q3_ylim_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+###### 

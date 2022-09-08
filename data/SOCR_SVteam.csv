@@ -1,1025 +1,549 @@
-﻿Company,Date,Agreements,User,Task
-ConvergeOne ,6/27/22,30,Romil,SVs
-ConvergeOne ,7/4/22,10,Romil,SVs
-ConvergeOne ,7/11/22,3,Romil,SVs
-ConvergeOne ,7/18/22,9,Romil,SVs
-ConvergeOne ,7/25/22,2,Romil,SVs
-ConvergeOne ,8/1/22,17,Romil,SVs
-ConvergeOne ,8/8/22,9,Romil,SVs
-ConvergeOne ,8/15/22,5,Romil,SVs
-ConvergeOne ,8/22/22,11,Romil,SVs
-ConvergeOne ,8/29/22,11,Romil,SVs
-SynapseFI,6/27/22,19,Romil,SVs
-SynapseFI,7/4/22,10,Romil,SVs
-SynapseFI,7/11/22,5,Romil,SVs
-SynapseFI,7/18/22,8,Romil,SVs
-SynapseFI,7/25/22,10,Romil,SVs
-SynapseFI,8/1/22,10,Romil,SVs
-SynapseFI,8/8/22,2,Romil,SVs
-SynapseFI,8/15/22,4,Romil,SVs
-SynapseFI,8/22/22,5,Romil,SVs
-SynapseFI,8/29/22,6,Romil,SVs
-DSG,6/27/22,80,Romil,SVs
-DSG,7/4/22,7,Romil,SVs
-DSG,7/11/22,24,Romil,SVs
-DSG,7/18/22,32,Romil,SVs
-DSG,7/25/22,32,Romil,SVs
-DSG,8/1/22,40,Romil,SVs
-DSG,8/8/22,37,Romil,SVs
-DSG,8/15/22,30,Romil,SVs
-DSG,8/22/22,72,Romil,SVs
-DSG,8/29/22,25,Romil,SVs
-TrustedHealth,6/27/22,4,Romil,PartyFix
-TrustedHealth,7/4/22,43,Romil,PartyFix
-TrustedHealth,7/11/22,5,Romil,PartyFix
-TrustedHealth,7/18/22,35,Romil,PartyFix
-TrustedHealth,7/25/22,2,Romil,PartyFix
-TrustedHealth,8/1/22,6,Romil,PartyFix
-TrustedHealth,8/8/22,5,Romil,PartyFix
-TrustedHealth,8/15/22,5,Romil,PartyFix
-TrustedHealth,8/22/22,10,Romil,PartyFix
-TrustedHealth,8/29/22,19,Romil,PartyFix
-DataRobot,6/27/22,0,Romil,SVs
-DataRobot,7/4/22,1,Romil,SVs
-DataRobot,7/11/22,0,Romil,SVs
-DataRobot,7/18/22,0,Romil,SVs
-DataRobot,7/25/22,1,Romil,SVs
-DataRobot,8/1/22,0,Romil,SVs
-DataRobot,8/8/22,0,Romil,SVs
-DataRobot,8/15/22,0,Romil,SVs
-DataRobot,8/22/22,0,Romil,SVs
-DataRobot,8/29/22,1,Romil,SVs
-Fiberlight,6/27/22,44,Romil,SVs
-Fiberlight,7/4/22,3,Romil,SVs
-Fiberlight,7/11/22,8,Romil,SVs
-Fiberlight,7/18/22,14,Romil,SVs
-Fiberlight,7/25/22,2,Romil,SVs
-Fiberlight,8/1/22,5,Romil,SVs
-Fiberlight,8/8/22,0,Romil,SVs
-Fiberlight,8/15/22,33,Romil,SVs
-Fiberlight,8/22/22,1,Romil,SVs
-Fiberlight,8/29/22,4,Romil,SVs
-Packetfabric,6/27/22,25,Romil,SVs
-Packetfabric,7/4/22,27,Romil,SVs
-Packetfabric,7/11/22,14,Romil,SVs
-Packetfabric,7/18/22,16,Romil,SVs
-Packetfabric,7/25/22,12,Romil,SVs
-Packetfabric,8/1/22,11,Romil,SVs
-Packetfabric,8/8/22,2,Romil,SVs
-Packetfabric,8/15/22,11,Romil,SVs
-Packetfabric,8/22/22,7,Romil,SVs
-Packetfabric,8/29/22,1,Romil,SVs
-NewRelic,6/27/22,13,Romil,SVs
-NewRelic,7/4/22,4,Romil,SVs
-NewRelic,7/11/22,8,Romil,SVs
-NewRelic,7/18/22,2,Romil,SVs
-NewRelic,7/25/22,2,Romil,SVs
-NewRelic,8/1/22,1,Romil,SVs
-NewRelic,8/8/22,3,Romil,SVs
-NewRelic,8/15/22,2,Romil,SVs
-NewRelic,8/22/22,5,Romil,SVs
-NewRelic,8/29/22,0,Romil,SVs
-BCMOne,6/27/22,1,Romil,SVs
-BCMOne,7/4/22,2,Romil,SVs
-BCMOne,7/11/22,0,Romil,SVs
-BCMOne,7/18/22,0,Romil,SVs
-BCMOne,7/25/22,0,Romil,SVs
-BCMOne,8/1/22,1,Romil,SVs
-BCMOne,8/8/22,1,Romil,SVs
-BCMOne,8/15/22,0,Romil,SVs
-BCMOne,8/22/22,0,Romil,SVs
-BCMOne,8/29/22,0,Romil,SVs
-Dwellworks,6/27/22,8,Romil,PartyFix
-Dwellworks,7/4/22,2,Romil,PartyFix
-Dwellworks,7/11/22,0,Romil,PartyFix
-Dwellworks,7/18/22,6,Romil,PartyFix
-Dwellworks,7/25/22,0,Romil,PartyFix
-Dwellworks,8/1/22,1,Romil,PartyFix
-Dwellworks,8/8/22,5,Romil,PartyFix
-Dwellworks,8/15/22,3,Romil,PartyFix
-Dwellworks,8/22/22,0,Romil,PartyFix
-Dwellworks,8/29/22,5,Romil,PartyFix
-Pros Holding,6/27/22,75,Romil,SVs
-Pros Holding,7/4/22,28,Romil,SVs
-Pros Holding,7/11/22,25,Romil,SVs
-Pros Holding,7/18/22,18,Romil,SVs
-Pros Holding,7/25/22,30,Romil,SVs
-Pros Holding,8/1/22,48,Romil,SVs
-Pros Holding,8/8/22,23,Romil,SVs
-Pros Holding,8/15/22,22,Romil,SVs
-Pros Holding,8/22/22,21,Romil,SVs
-Pros Holding,8/29/22,34,Romil,SVs
-Aveo,6/27/22,0,Romil,SVs
-Aveo,7/4/22,33,Romil,SVs
-Aveo,7/11/22,2,Romil,SVs
-Aveo,7/18/22,16,Romil,SVs
-Aveo,7/25/22,9,Romil,SVs
-Aveo,8/1/22,18,Romil,SVs
-Aveo,8/8/22,7,Romil,SVs
-Aveo,8/15/22,1,Romil,SVs
-Aveo,8/22/22,9,Romil,SVs
-Aveo,8/29/22,6,Romil,SVs
-EngageSmart,6/27/22,18,Romil,PartyFix
-EngageSmart,7/4/22,90,Romil,PartyFix
-EngageSmart,7/11/22,50,Romil,PartyFix
-EngageSmart,7/18/22,11,Romil,PartyFix
-EngageSmart,7/25/22,11,Romil,PartyFix
-EngageSmart,8/1/22,10,Romil,PartyFix
-EngageSmart,8/8/22,18,Romil,PartyFix
-EngageSmart,8/15/22,20,Romil,PartyFix
-EngageSmart,8/22/22,4,Romil,PartyFix
-EngageSmart,8/29/22,8,Romil,PartyFix
-Ravenswood,6/27/22,0,Romil,SVs
-Ravenswood,7/4/22,0,Romil,SVs
-Ravenswood,7/11/22,0,Romil,SVs
-Ravenswood,7/18/22,0,Romil,SVs
-Ravenswood,7/25/22,0,Romil,SVs
-Ravenswood,8/1/22,0,Romil,SVs
-Ravenswood,8/8/22,0,Romil,SVs
-Ravenswood,8/15/22,0,Romil,SVs
-Ravenswood,8/22/22,0,Romil,SVs
-Ravenswood,8/29/22,0,Romil,SVs
-Onapsis,6/27/22,75,Nivedita,SVs
-Onapsis,7/4/22,38,Nivedita,SVs
-Onapsis,7/11/22,5,Nivedita,SVs
-Onapsis,7/18/22,7,Nivedita,SVs
-Onapsis,7/25/22,5,Nivedita,SVs
-Onapsis,8/1/22,11,Nivedita,SVs
-Onapsis,8/8/22,10,Nivedita,SVs
-Onapsis,8/15/22,13,Nivedita,SVs
-Onapsis,8/22/22,7,Nivedita,SVs
-Onapsis,8/29/22,13,Nivedita,SVs
-Sectigo,6/27/22,32,Nivedita,SVs
-Sectigo,7/4/22,49,Nivedita,SVs
-Sectigo,7/11/22,14,Nivedita,SVs
-Sectigo,7/18/22,25,Nivedita,SVs
-Sectigo,7/25/22,10,Nivedita,SVs
-Sectigo,8/1/22,24,Nivedita,SVs
-Sectigo,8/8/22,21,Nivedita,SVs
-Sectigo,8/15/22,11,Nivedita,SVs
-Sectigo,8/22/22,3,Nivedita,SVs
-Sectigo,8/29/22,3,Nivedita,SVs
-Tapad,6/27/22,11,Nivedita,SVs
-Tapad,7/4/22,6,Nivedita,SVs
-Tapad,7/11/22,5,Nivedita,SVs
-Tapad,7/18/22,3,Nivedita,SVs
-Tapad,7/25/22,7,Nivedita,SVs
-Tapad,8/1/22,13,Nivedita,SVs
-Tapad,8/8/22,8,Nivedita,SVs
-Tapad,8/15/22,3,Nivedita,SVs
-Tapad,8/22/22,3,Nivedita,SVs
-Tapad,8/29/22,7,Nivedita,SVs
-Aldevron,6/27/22,20,Nivedita,PartyFix
-Aldevron,7/4/22,10,Nivedita,PartyFix
-Aldevron,7/11/22,25,Nivedita,PartyFix
-Aldevron,7/18/22,9,Nivedita,PartyFix
-Aldevron,7/25/22,8,Nivedita,PartyFix
-Aldevron,8/1/22,31,Nivedita,PartyFix
-Aldevron,8/8/22,6,Nivedita,PartyFix
-Aldevron,8/15/22,4,Nivedita,PartyFix
-Aldevron,8/22/22,28,Nivedita,PartyFix
-Aldevron,8/29/22,17,Nivedita,PartyFix
-Skyhawk,6/27/22,23,Nivedita,PartyFix
-Skyhawk,7/4/22,2,Nivedita,PartyFix
-Skyhawk,7/11/22,1,Nivedita,PartyFix
-Skyhawk,7/18/22,0,Nivedita,PartyFix
-Skyhawk,7/25/22,0,Nivedita,PartyFix
-Skyhawk,8/1/22,25,Nivedita,PartyFix
-Skyhawk,8/8/22,1,Nivedita,PartyFix
-Skyhawk,8/15/22,11,Nivedita,PartyFix
-Skyhawk,8/22/22,4,Nivedita,PartyFix
-Skyhawk,8/29/22,1,Nivedita,PartyFix
-AbioMed,6/27/22,43,Nivedita,PartyFix
-AbioMed,7/4/22,6,Nivedita,PartyFix
-AbioMed,7/11/22,0,Nivedita,PartyFix
-AbioMed,7/18/22,30,Nivedita,PartyFix
-AbioMed,7/25/22,46,Nivedita,PartyFix
-AbioMed,8/1/22,18,Nivedita,PartyFix
-AbioMed,8/8/22,11,Nivedita,PartyFix
-AbioMed,8/15/22,9,Nivedita,PartyFix
-AbioMed,8/22/22,13,Nivedita,PartyFix
-AbioMed,8/29/22,8,Nivedita,PartyFix
-Parent Co,6/27/22,8,Nivedita,PartyFix
-Parent Co,7/4/22,0,Nivedita,PartyFix
-Parent Co,7/11/22,0,Nivedita,PartyFix
-Parent Co,7/18/22,1,Nivedita,PartyFix
-Parent Co,7/25/22,0,Nivedita,PartyFix
-Parent Co,8/1/22,0,Nivedita,PartyFix
-Parent Co,8/8/22,7,Nivedita,PartyFix
-Parent Co,8/15/22,5,Nivedita,PartyFix
-Parent Co,8/22/22,6,Nivedita,PartyFix
-Parent Co,8/29/22,5,Nivedita,PartyFix
-Redox,6/27/22,4,Nivedita,SVs
-Redox,7/4/22,3,Nivedita,SVs
-Redox,7/11/22,2,Nivedita,SVs
-Redox,7/18/22,0,Nivedita,SVs
-Redox,7/25/22,5,Nivedita,SVs
-Redox,8/1/22,6,Nivedita,SVs
-Redox,8/8/22,1,Nivedita,SVs
-Redox,8/15/22,2,Nivedita,SVs
-Redox,8/22/22,3,Nivedita,SVs
-Redox,8/29/22,2,Nivedita,SVs
-TradeStation,6/27/22,74,Nivedita,PartyFix
-TradeStation,7/4/22,3,Nivedita,PartyFix
-TradeStation,7/11/22,1,Nivedita,PartyFix
-TradeStation,7/18/22,150,Nivedita,PartyFix
-TradeStation,7/25/22,21,Nivedita,PartyFix
-TradeStation,8/1/22,0,Nivedita,PartyFix
-TradeStation,8/8/22,831,Nivedita,PartyFix
-TradeStation,8/15/22,431,Nivedita,PartyFix
-TradeStation,8/22/22,37,Nivedita,PartyFix
-TradeStation,8/29/22,145,Nivedita,PartyFix
-Haivision,6/27/22,2,Nivedita,SVs
-Haivision,7/4/22,0,Nivedita,SVs
-Haivision,7/11/22,12,Nivedita,SVs
-Haivision,7/18/22,2,Nivedita,SVs
-Haivision,7/25/22,16,Nivedita,SVs
-Haivision,8/1/22,9,Nivedita,SVs
-Haivision,8/8/22,0,Nivedita,SVs
-Haivision,8/15/22,7,Nivedita,SVs
-Haivision,8/22/22,8,Nivedita,SVs
-Haivision,8/29/22,46,Nivedita,SVs
-Onapsis,10/31/21,3,Nivedita,SVs
-Onapsis,11/7/21,0,Nivedita,SVs
-Onapsis,11/14/21,7,Nivedita,SVs
-Onapsis,11/21/21,6,Nivedita,SVs
-Onapsis,11/28/21,9,Nivedita,SVs
-Onapsis,12/5/21,9,Nivedita,SVs
-Onapsis,12/12/21,6,Nivedita,SVs
-Onapsis,12/19/21,26,Nivedita,SVs
-Onapsis,12/27/21,30,Nivedita,SVs
-Onapsis,1/2/22,23,Nivedita,SVs
-Onapsis,1/9/22,19,Nivedita,SVs
-Onapsis,1/16/22,9,Nivedita,SVs
-Onapsis,1/23/22,19,Nivedita,SVs
-Onapsis,1/30/22,9,Nivedita,SVs
-Onapsis,2/6/22,17,Nivedita,SVs
-Onapsis,2/13/22,5,Nivedita,SVs
-Onapsis,2/20/22,9,Nivedita,SVs
-Onapsis,2/27/22,13,Nivedita,SVs
-Onapsis,3/6/22,8,Nivedita,SVs
-Onapsis,3/13/22,9,Nivedita,SVs
-Onapsis,3/20/22,19,Nivedita,SVs
-Onapsis,3/28/22,10,Nivedita,SVs
-Onapsis,4/4/22,27,Nivedita,SVs
-Onapsis,4/11/22,4,Nivedita,SVs
-Onapsis,4/18/22,11,Nivedita,SVs
-Onapsis,4/25/22,2,Nivedita,SVs
-Onapsis,5/2/22,10,Nivedita,SVs
-Onapsis,5/9/22,15,Nivedita,SVs
-Onapsis,5/16/22,12,Nivedita,SVs
-Onapsis,5/23/22,15,Nivedita,SVs
-Onapsis,5/30/22,16,Nivedita,SVs
-Onapsis,6/6/22,22,Nivedita,SVs
-Onapsis,6/13/22,14,Nivedita,SVs
-Onapsis,6/21/22,75,Nivedita,SVs
-Tapad,10/31/21,,Nivedita,SVs
-Tapad,11/7/21,,Nivedita,SVs
-Tapad,11/14/21,,Nivedita,SVs
-Tapad,11/21/21,,Nivedita,SVs
-Tapad,11/28/21,,Nivedita,SVs
-Tapad,12/5/21,,Nivedita,SVs
-Tapad,12/12/21,,Nivedita,SVs
-Tapad,12/19/21,,Nivedita,SVs
-Tapad,12/27/21,,Nivedita,SVs
-Tapad,1/2/22,17,Nivedita,SVs
-Tapad,1/9/22,1,Nivedita,SVs
-Tapad,1/16/22,0,Nivedita,SVs
-Tapad,1/23/22,0,Nivedita,SVs
-Tapad,1/30/22,10,Nivedita,SVs
-Tapad,2/6/22,0,Nivedita,SVs
-Tapad,2/13/22,4,Nivedita,SVs
-Tapad,2/20/22,0,Nivedita,SVs
-Tapad,2/27/22,0,Nivedita,SVs
-Tapad,3/6/22,8,Nivedita,SVs
-Tapad,3/13/22,0,Nivedita,SVs
-Tapad,3/20/22,0,Nivedita,SVs
-Tapad,3/28/22,2,Nivedita,SVs
-Tapad,4/4/22,0,Nivedita,SVs
-Tapad,4/11/22,17,Nivedita,SVs
-Tapad,4/18/22,25,Nivedita,SVs
-Tapad,4/25/22,0,Nivedita,SVs
-Tapad,5/2/22,0,Nivedita,SVs
-Tapad,5/9/22,7,Nivedita,SVs
-Tapad,5/16/22,0,Nivedita,SVs
-Tapad,5/23/22,2,Nivedita,SVs
-Tapad,5/30/22,2,Nivedita,SVs
-Tapad,6/6/22,2,Nivedita,SVs
-Tapad,6/13/22,0,Nivedita,SVs
-Tapad,6/21/22,0,Nivedita,SVs
-Aldevron,10/31/21,1,Nivedita,PartyFix
-Aldevron,11/7/21,6,Nivedita,PartyFix
-Aldevron,11/14/21,5,Nivedita,PartyFix
-Aldevron,11/21/21,10,Nivedita,PartyFix
-Aldevron,11/28/21,2,Nivedita,PartyFix
-Aldevron,12/5/21,3,Nivedita,PartyFix
-Aldevron,12/12/21,1,Nivedita,PartyFix
-Aldevron,12/19/21,0,Nivedita,PartyFix
-Aldevron,12/27/21,10,Nivedita,PartyFix
-Aldevron,1/2/22,2,Nivedita,PartyFix
-Aldevron,1/9/22,37,Nivedita,PartyFix
-Aldevron,1/16/22,1,Nivedita,PartyFix
-Aldevron,1/23/22,3,Nivedita,PartyFix
-Aldevron,1/30/22,12,Nivedita,PartyFix
-Aldevron,2/6/22,1,Nivedita,PartyFix
-Aldevron,2/13/22,0,Nivedita,PartyFix
-Aldevron,2/20/22,4,Nivedita,PartyFix
-Aldevron,2/27/22,0,Nivedita,PartyFix
-Aldevron,3/6/22,22,Nivedita,PartyFix
-Aldevron,3/13/22,1,Nivedita,PartyFix
-Aldevron,3/20/22,4,Nivedita,PartyFix
-Aldevron,3/28/22,25,Nivedita,PartyFix
-Aldevron,4/4/22,6,Nivedita,PartyFix
-Aldevron,4/11/22,25,Nivedita,PartyFix
-Aldevron,4/18/22,24,Nivedita,PartyFix
-Aldevron,4/25/22,7,Nivedita,PartyFix
-Aldevron,5/2/22,5,Nivedita,PartyFix
-Aldevron,5/9/22,15,Nivedita,PartyFix
-Aldevron,5/16/22,11,Nivedita,PartyFix
-Aldevron,5/23/22,66,Nivedita,PartyFix
-Aldevron,5/30/22,10,Nivedita,PartyFix
-Aldevron,6/6/22,8,Nivedita,PartyFix
-Aldevron,6/13/22,10,Nivedita,PartyFix
-Aldevron,6/21/22,0,Nivedita,PartyFix
-Skyhawk,10/31/21,,Nivedita,PartyFix
-Skyhawk,11/7/21,,Nivedita,PartyFix
-Skyhawk,11/14/21,,Nivedita,PartyFix
-Skyhawk,11/21/21,111,Nivedita,PartyFix
-Skyhawk,11/28/21,0,Nivedita,PartyFix
-Skyhawk,12/5/21,0,Nivedita,PartyFix
-Skyhawk,12/12/21,0,Nivedita,PartyFix
-Skyhawk,12/19/21,0,Nivedita,PartyFix
-Skyhawk,12/27/21,0,Nivedita,PartyFix
-Skyhawk,1/2/22,0,Nivedita,PartyFix
-Skyhawk,1/9/22,57,Nivedita,PartyFix
-Skyhawk,1/16/22,186,Nivedita,PartyFix
-Skyhawk,1/23/22,15,Nivedita,PartyFix
-Skyhawk,1/30/22,23,Nivedita,PartyFix
-Skyhawk,2/6/22,7,Nivedita,PartyFix
-Skyhawk,2/13/22,14,Nivedita,PartyFix
-Skyhawk,2/20/22,13,Nivedita,PartyFix
-Skyhawk,2/27/22,2,Nivedita,PartyFix
-Skyhawk,3/6/22,0,Nivedita,PartyFix
-Skyhawk,3/13/22,6,Nivedita,PartyFix
-Skyhawk,3/20/22,3,Nivedita,PartyFix
-Skyhawk,3/28/22,4,Nivedita,PartyFix
-Skyhawk,4/4/22,10,Nivedita,PartyFix
-Skyhawk,4/11/22,2,Nivedita,PartyFix
-Skyhawk,4/18/22,9,Nivedita,PartyFix
-Skyhawk,4/25/22,2,Nivedita,PartyFix
-Skyhawk,5/2/22,13,Nivedita,PartyFix
-Skyhawk,5/9/22,0,Nivedita,PartyFix
-Skyhawk,5/16/22,0,Nivedita,PartyFix
-Skyhawk,5/23/22,15,Nivedita,PartyFix
-Skyhawk,5/30/22,2,Nivedita,PartyFix
-Skyhawk,6/6/22,0,Nivedita,PartyFix
-Skyhawk,6/13/22,6,Nivedita,PartyFix
-Skyhawk,6/21/22,0,Nivedita,PartyFix
-AbioMed,10/31/21,24,Nivedita,PartyFix
-AbioMed,11/7/21,22,Nivedita,PartyFix
-AbioMed,11/14/21,18,Nivedita,PartyFix
-AbioMed,11/21/21,8,Nivedita,PartyFix
-AbioMed,11/28/21,16,Nivedita,PartyFix
-AbioMed,12/5/21,18,Nivedita,PartyFix
-AbioMed,12/12/21,13,Nivedita,PartyFix
-AbioMed,12/19/21,9,Nivedita,PartyFix
-AbioMed,12/27/21,7,Nivedita,PartyFix
-AbioMed,1/2/22,21,Nivedita,PartyFix
-AbioMed,1/9/22,11,Nivedita,PartyFix
-AbioMed,1/16/22,26,Nivedita,PartyFix
-AbioMed,1/23/22,13,Nivedita,PartyFix
-AbioMed,1/30/22,22,Nivedita,PartyFix
-AbioMed,2/6/22,14,Nivedita,PartyFix
-AbioMed,2/13/22,7,Nivedita,PartyFix
-AbioMed,2/20/22,14,Nivedita,PartyFix
-AbioMed,2/27/22,17,Nivedita,PartyFix
-AbioMed,3/6/22,35,Nivedita,PartyFix
-AbioMed,3/13/22,5,Nivedita,PartyFix
-AbioMed,3/20/22,20,Nivedita,PartyFix
-AbioMed,3/28/22,16,Nivedita,PartyFix
-AbioMed,4/4/22,51,Nivedita,PartyFix
-AbioMed,4/11/22,6,Nivedita,PartyFix
-AbioMed,4/18/22,13,Nivedita,PartyFix
-AbioMed,4/25/22,17,Nivedita,PartyFix
-AbioMed,5/2/22,10,Nivedita,PartyFix
-AbioMed,5/9/22,14,Nivedita,PartyFix
-AbioMed,5/16/22,15,Nivedita,PartyFix
-AbioMed,5/23/22,154,Nivedita,PartyFix
-AbioMed,5/30/22,0,Nivedita,PartyFix
-AbioMed,6/6/22,177,Nivedita,PartyFix
-AbioMed,6/13/22,6,Nivedita,PartyFix
-AbioMed,6/21/22,0,Nivedita,PartyFix
-Parent Co,10/31/21,,Nivedita,PartyFix
-Parent Co,11/7/21,,Nivedita,PartyFix
-Parent Co,11/14/21,,Nivedita,PartyFix
-Parent Co,11/21/21,,Nivedita,PartyFix
-Parent Co,11/28/21,,Nivedita,PartyFix
-Parent Co,12/5/21,,Nivedita,PartyFix
-Parent Co,12/12/21,,Nivedita,PartyFix
-Parent Co,12/19/21,,Nivedita,PartyFix
-Parent Co,12/27/21,,Nivedita,PartyFix
-Parent Co,1/2/22,,Nivedita,PartyFix
-Parent Co,1/9/22,,Nivedita,PartyFix
-Parent Co,1/16/22,,Nivedita,PartyFix
-Parent Co,1/23/22,,Nivedita,PartyFix
-Parent Co,1/30/22,,Nivedita,PartyFix
-Parent Co,2/6/22,,Nivedita,PartyFix
-Parent Co,2/13/22,,Nivedita,PartyFix
-Parent Co,2/20/22,,Nivedita,PartyFix
-Parent Co,2/27/22,,Nivedita,PartyFix
-Parent Co,3/6/22,,Nivedita,PartyFix
-Parent Co,3/13/22,9,Nivedita,PartyFix
-Parent Co,3/20/22,5,Nivedita,PartyFix
-Parent Co,3/28/22,11,Nivedita,PartyFix
-Parent Co,4/4/22,10,Nivedita,PartyFix
-Parent Co,4/11/22,6,Nivedita,PartyFix
-Parent Co,4/18/22,3,Nivedita,PartyFix
-Parent Co,4/25/22,2,Nivedita,PartyFix
-Parent Co,5/2/22,9,Nivedita,PartyFix
-Parent Co,5/9/22,3,Nivedita,PartyFix
-Parent Co,5/16/22,4,Nivedita,PartyFix
-Parent Co,5/23/22,6,Nivedita,PartyFix
-Parent Co,5/30/22,2,Nivedita,PartyFix
-Parent Co,6/6/22,3,Nivedita,PartyFix
-Parent Co,6/13/22,6,Nivedita,PartyFix
-Parent Co,6/21/22,0,Nivedita,PartyFix
-Redox,10/31/21,,Nivedita,SVs
-Redox,11/7/21,,Nivedita,SVs
-Redox,11/14/21,,Nivedita,SVs
-Redox,11/21/21,,Nivedita,SVs
-Redox,11/28/21,,Nivedita,SVs
-Redox,12/5/21,,Nivedita,SVs
-Redox,12/12/21,,Nivedita,SVs
-Redox,12/19/21,,Nivedita,SVs
-Redox,12/27/21,,Nivedita,SVs
-Redox,1/2/22,,Nivedita,SVs
-Redox,1/9/22,,Nivedita,SVs
-Redox,1/16/22,,Nivedita,SVs
-Redox,1/23/22,,Nivedita,SVs
-Redox,1/30/22,,Nivedita,SVs
-Redox,2/6/22,,Nivedita,SVs
-Redox,2/13/22,,Nivedita,SVs
-Redox,2/20/22,,Nivedita,SVs
-Redox,2/27/22,,Nivedita,SVs
-Redox,3/6/22,,Nivedita,SVs
-Redox,3/13/22,,Nivedita,SVs
-Redox,3/20/22,,Nivedita,SVs
-Redox,3/28/22,9,Nivedita,SVs
-Redox,4/4/22,5,Nivedita,SVs
-Redox,4/11/22,0,Nivedita,SVs
-Redox,4/18/22,0,Nivedita,SVs
-Redox,4/25/22,0,Nivedita,SVs
-Redox,5/2/22,1,Nivedita,SVs
-Redox,5/9/22,0,Nivedita,SVs
-Redox,5/16/22,1,Nivedita,SVs
-Redox,5/23/22,1,Nivedita,SVs
-Redox,5/30/22,4,Nivedita,SVs
-Redox,6/6/22,4,Nivedita,SVs
-Redox,6/13/22,1,Nivedita,SVs
-Redox,6/21/22,0,Nivedita,SVs
-TradeStation,10/31/21,,Nivedita,PartyFix
-TradeStation,11/7/21,,Nivedita,PartyFix
-TradeStation,11/14/21,,Nivedita,PartyFix
-TradeStation,11/21/21,,Nivedita,PartyFix
-TradeStation,11/28/21,,Nivedita,PartyFix
-TradeStation,12/5/21,,Nivedita,PartyFix
-TradeStation,12/12/21,,Nivedita,PartyFix
-TradeStation,12/19/21,,Nivedita,PartyFix
-TradeStation,12/27/21,,Nivedita,PartyFix
-TradeStation,1/2/22,,Nivedita,PartyFix
-TradeStation,1/9/22,,Nivedita,PartyFix
-TradeStation,1/16/22,,Nivedita,PartyFix
-TradeStation,1/23/22,,Nivedita,PartyFix
-TradeStation,1/30/22,,Nivedita,PartyFix
-TradeStation,2/6/22,,Nivedita,PartyFix
-TradeStation,2/13/22,,Nivedita,PartyFix
-TradeStation,2/20/22,,Nivedita,PartyFix
-TradeStation,2/27/22,,Nivedita,PartyFix
-TradeStation,3/6/22,,Nivedita,PartyFix
-TradeStation,3/13/22,,Nivedita,PartyFix
-TradeStation,3/20/22,,Nivedita,PartyFix
-TradeStation,3/28/22,,Nivedita,PartyFix
-TradeStation,4/4/22,,Nivedita,PartyFix
-TradeStation,4/11/22,,Nivedita,PartyFix
-TradeStation,4/18/22,,Nivedita,PartyFix
-TradeStation,4/25/22,,Nivedita,PartyFix
-TradeStation,5/2/22,,Nivedita,PartyFix
-TradeStation,5/9/22,,Nivedita,PartyFix
-TradeStation,5/16/22,,Nivedita,PartyFix
-TradeStation,5/23/22,,Nivedita,PartyFix
-TradeStation,5/30/22,,Nivedita,PartyFix
-TradeStation,6/6/22,,Nivedita,PartyFix
-TradeStation,6/13/22,28,Nivedita,PartyFix
-TradeStation,6/21/22,74,Nivedita,PartyFix
-TradeStation,6/27/22,74,Nivedita,PartyFix
-TradeStation,7/4/22,3,Nivedita,PartyFix
-TradeStation,7/11/22,1,Nivedita,PartyFix
-TradeStation,7/18/22,150,Nivedita,PartyFix
-TradeStation,7/25/22,21,Nivedita,PartyFix
-TradeStation,8/1/22,0,Nivedita,PartyFix
-TradeStation,8/8/22,831,Nivedita,PartyFix
-TradeStation,8/15/22,431,Nivedita,PartyFix
-TradeStation,8/22/22,37,Nivedita,PartyFix
-TradeStation,8/29/22,145,Nivedita,PartyFix
-TradeStation,9/6/22,17,Nivedita,PartyFix
-Redox,9/6/22,6,Nivedita,SVs
-Parent Co,9/6/22,0,Nivedita,PartyFix
-AbioMed,9/6/22,42,Nivedita,PartyFix
-Skyhawk,9/6/22,11,Nivedita,PartyFix
-Aldevron,9/6/22,7,Nivedita,PartyFix
-Tapad,9/6/22,6,Nivedita,SVs
-Sectigo,9/6/22,32,Nivedita,SVs
-Onapsis,9/6/22,10,Nivedita,SVs
-ConvergeOne ,9/6/22,10,Romil,SVs
-SynapseFI,9/6/22,4,Romil,SVs
-DSG,9/6/22,33,Romil,SVs
-TrustedHealth,9/6/22,11,Romil,PartyFix
-DataRobot,9/6/22,0,Romil,SVs
-Fiberlight,9/6/22,6,Romil,SVs
-Packetfabric,9/6/22,5,Romil,SVs
-NewRelic,9/6/22,2,Romil,SVs
-BCMOne,9/6/22,1,Romil,SVs
-Dwellworks,9/6/22,3,Romil,PartyFix
-Pros Holding,9/6/22,35,Romil,SVs
-Aveo,9/6/22,25,Romil,SVs
-EngageSmart,9/6/22,12,Romil,PartyFix
-Ravenswood,9/6/22,0,Romil,SVs
-Orca,8/22/22,8,Nivedita,PartyFix
-Orca,8/29/22,24,Nivedita,PartyFix
-Orca,9/6/22,31,Nivedita,PartyFix
-ConvergeOne,10/31/21,15,Romil,SVs
-ConvergeOne,11/7/21,7,Romil,SVs
-ConvergeOne,11/14/21,14,Romil,SVs
-ConvergeOne,11/21/21,8,Romil,SVs
-ConvergeOne,11/28/21,4,Romil,SVs
-ConvergeOne,12/5/21,5,Romil,SVs
-ConvergeOne,12/12/21,12,Romil,SVs
-ConvergeOne,12/19/21,10,Romil,SVs
-ConvergeOne,12/27/21,6,Romil,SVs
-ConvergeOne,1/2/22,6,Romil,SVs
-ConvergeOne,1/9/22,446,Romil,SVs
-ConvergeOne,1/16/22,172,Romil,SVs
-ConvergeOne,1/23/22,8,Romil,SVs
-ConvergeOne,1/30/22,11,Romil,SVs
-ConvergeOne,2/6/22,10,Romil,SVs
-ConvergeOne,2/13/22,3,Romil,SVs
-ConvergeOne,2/20/22,17,Romil,SVs
-ConvergeOne,2/27/22,18,Romil,SVs
-ConvergeOne,3/6/22,8,Romil,SVs
-ConvergeOne,3/13/22,14,Romil,SVs
-ConvergeOne,3/20/22,6,Romil,SVs
-ConvergeOne,3/28/22,11,Romil,SVs
-ConvergeOne,4/4/22,9,Romil,SVs
-ConvergeOne,4/11/22,10,Romil,SVs
-ConvergeOne,4/18/22,6,Romil,SVs
-ConvergeOne,4/25/22,11,Romil,SVs
-ConvergeOne,5/2/22,53,Romil,SVs
-ConvergeOne,5/9/22,8,Romil,SVs
-ConvergeOne,5/16/22,10,Romil,SVs
-ConvergeOne,5/23/22,11,Romil,SVs
-ConvergeOne,5/30/22,12,Romil,SVs
-ConvergeOne,6/6/22,4,Romil,SVs
-ConvergeOne,6/13/22,11,Romil,SVs
-ConvergeOne,6/21/22,23,Romil,SVs
-SynapseFI,10/31/21,3,Romil,SVs
-SynapseFI,11/7/21,4,Romil,SVs
-SynapseFI,11/14/21,2,Romil,SVs
-SynapseFI,11/21/21,10,Romil,SVs
-SynapseFI,11/28/21,2,Romil,SVs
-SynapseFI,12/5/21,7,Romil,SVs
-SynapseFI,12/12/21,10,Romil,SVs
-SynapseFI,12/19/21,6,Romil,SVs
-SynapseFI,12/27/21,5,Romil,SVs
-SynapseFI,1/2/22,5,Romil,SVs
-SynapseFI,1/9/22,5,Romil,SVs
-SynapseFI,1/16/22,5,Romil,SVs
-SynapseFI,1/23/22,8,Romil,SVs
-SynapseFI,1/30/22,14,Romil,SVs
-SynapseFI,2/6/22,9,Romil,SVs
-SynapseFI,2/13/22,5,Romil,SVs
-SynapseFI,2/20/22,15,Romil,SVs
-SynapseFI,2/27/22,6,Romil,SVs
-SynapseFI,3/6/22,5,Romil,SVs
-SynapseFI,3/13/22,8,Romil,SVs
-SynapseFI,3/20/22,9,Romil,SVs
-SynapseFI,3/28/22,5,Romil,SVs
-SynapseFI,4/4/22,9,Romil,SVs
-SynapseFI,4/11/22,8,Romil,SVs
-SynapseFI,4/18/22,5,Romil,SVs
-SynapseFI,4/25/22,15,Romil,SVs
-SynapseFI,5/2/22,16,Romil,SVs
-SynapseFI,5/9/22,25,Romil,SVs
-SynapseFI,5/16/22,8,Romil,SVs
-SynapseFI,5/23/22,5,Romil,SVs
-SynapseFI,5/30/22,3,Romil,SVs
-SynapseFI,6/6/22,3,Romil,SVs
-SynapseFI,6/13/22,6,Romil,SVs
-SynapseFI,6/21/22,14,Romil,SVs
-DSG,10/31/21,38,Romil,SVs
-DSG,11/7/21,30,Romil,SVs
-DSG,11/14/21,36,Romil,SVs
-DSG,11/21/21,23,Romil,SVs
-DSG,11/28/21,8,Romil,SVs
-DSG,12/5/21,12,Romil,SVs
-DSG,12/12/21,8,Romil,SVs
-DSG,12/19/21,48,Romil,SVs
-DSG,12/27/21,26,Romil,SVs
-DSG,1/2/22,137,Romil,SVs
-DSG,1/9/22,0,Romil,SVs
-DSG,1/16/22,0,Romil,SVs
-DSG,1/23/22,46,Romil,SVs
-DSG,1/30/22,40,Romil,SVs
-DSG,2/6/22,31,Romil,SVs
-DSG,2/13/22,40,Romil,SVs
-DSG,2/20/22,26,Romil,SVs
-DSG,2/27/22,40,Romil,SVs
-DSG,3/6/22,32,Romil,SVs
-DSG,3/13/22,27,Romil,SVs
-DSG,3/20/22,34,Romil,SVs
-DSG,3/28/22,37,Romil,SVs
-DSG,4/4/22,34,Romil,SVs
-DSG,4/11/22,19,Romil,SVs
-DSG,4/18/22,0,Romil,SVs
-DSG,4/25/22,0,Romil,SVs
-DSG,5/2/22,76,Romil,SVs
-DSG,5/9/22,28,Romil,SVs
-DSG,5/16/22,20,Romil,SVs
-DSG,5/23/22,19,Romil,SVs
-DSG,5/30/22,29,Romil,SVs
-DSG,6/6/22,30,Romil,SVs
-DSG,6/13/22,42,Romil,SVs
-DSG,6/21/22,90,Romil,SVs
-TrustedHealth,10/31/21,21,Romil,PartyFix
-TrustedHealth,11/7/21,19,Romil,PartyFix
-TrustedHealth,11/14/21,20,Romil,PartyFix
-TrustedHealth,11/21/21,11,Romil,PartyFix
-TrustedHealth,11/28/21,3,Romil,PartyFix
-TrustedHealth,12/5/21,283,Romil,PartyFix
-TrustedHealth,12/12/21,2,Romil,PartyFix
-TrustedHealth,12/19/21,13,Romil,PartyFix
-TrustedHealth,12/27/21,9,Romil,PartyFix
-TrustedHealth,1/2/22,0,Romil,PartyFix
-TrustedHealth,1/9/22,4,Romil,PartyFix
-TrustedHealth,1/16/22,2,Romil,PartyFix
-TrustedHealth,1/23/22,23,Romil,PartyFix
-TrustedHealth,1/30/22,1,Romil,PartyFix
-TrustedHealth,2/6/22,2,Romil,PartyFix
-TrustedHealth,2/13/22,5,Romil,PartyFix
-TrustedHealth,2/20/22,0,Romil,PartyFix
-TrustedHealth,2/27/22,1,Romil,PartyFix
-TrustedHealth,3/6/22,2,Romil,PartyFix
-TrustedHealth,3/13/22,78,Romil,PartyFix
-TrustedHealth,3/20/22,31,Romil,PartyFix
-TrustedHealth,3/28/22,7,Romil,PartyFix
-TrustedHealth,4/4/22,14,Romil,PartyFix
-TrustedHealth,4/11/22,2,Romil,PartyFix
-TrustedHealth,4/18/22,14,Romil,PartyFix
-TrustedHealth,4/25/22,1,Romil,PartyFix
-TrustedHealth,5/2/22,8,Romil,PartyFix
-TrustedHealth,5/9/22,5,Romil,PartyFix
-TrustedHealth,5/16/22,1,Romil,PartyFix
-TrustedHealth,5/23/22,11,Romil,PartyFix
-TrustedHealth,5/30/22,11,Romil,PartyFix
-TrustedHealth,6/6/22,18,Romil,PartyFix
-TrustedHealth,6/13/22,8,Romil,PartyFix
-TrustedHealth,6/21/22,4,Romil,PartyFix
-DataRobot,10/31/21,62,Romil,SVs
-DataRobot,11/7/21,97,Romil,SVs
-DataRobot,11/14/21,89,Romil,SVs
-DataRobot,11/21/21,117,Romil,SVs
-DataRobot,11/28/21,12,Romil,SVs
-DataRobot,12/5/21,55,Romil,SVs
-DataRobot,12/12/21,44,Romil,SVs
-DataRobot,12/19/21,25,Romil,SVs
-DataRobot,12/27/21,4,Romil,SVs
-DataRobot,1/2/22,1,Romil,SVs
-DataRobot,1/9/22,5,Romil,SVs
-DataRobot,1/16/22,4,Romil,SVs
-DataRobot,1/23/22,1,Romil,SVs
-DataRobot,1/30/22,0,Romil,SVs
-DataRobot,2/6/22,0,Romil,SVs
-DataRobot,2/13/22,0,Romil,SVs
-DataRobot,2/20/22,0,Romil,SVs
-DataRobot,2/27/22,0,Romil,SVs
-DataRobot,3/6/22,0,Romil,SVs
-DataRobot,3/13/22,0,Romil,SVs
-DataRobot,3/20/22,0,Romil,SVs
-DataRobot,3/28/22,0,Romil,SVs
-DataRobot,4/4/22,0,Romil,SVs
-DataRobot,4/11/22,0,Romil,SVs
-DataRobot,4/18/22,0,Romil,SVs
-DataRobot,4/25/22,0,Romil,SVs
-DataRobot,5/2/22,1,Romil,SVs
-DataRobot,5/9/22,0,Romil,SVs
-DataRobot,5/16/22,0,Romil,SVs
-DataRobot,5/23/22,0,Romil,SVs
-DataRobot,5/30/22,0,Romil,SVs
-DataRobot,6/6/22,0,Romil,SVs
-DataRobot,6/13/22,0,Romil,SVs
-DataRobot,6/21/22,0,Romil,SVs
-Fiberlight,10/31/21,,Romil,SVs
-Fiberlight,11/7/21,,Romil,SVs
-Fiberlight,11/14/21,,Romil,SVs
-Fiberlight,11/21/21,,Romil,SVs
-Fiberlight,11/28/21,,Romil,SVs
-Fiberlight,12/5/21,,Romil,SVs
-Fiberlight,12/12/21,,Romil,SVs
-Fiberlight,12/19/21,,Romil,SVs
-Fiberlight,12/27/21,,Romil,SVs
-Fiberlight,1/2/22,,Romil,SVs
-Fiberlight,1/9/22,,Romil,SVs
-Fiberlight,1/16/22,4,Romil,SVs
-Fiberlight,1/23/22,2,Romil,SVs
-Fiberlight,1/30/22,3,Romil,SVs
-Fiberlight,2/6/22,3,Romil,SVs
-Fiberlight,2/13/22,8,Romil,SVs
-Fiberlight,2/20/22,9,Romil,SVs
-Fiberlight,2/27/22,8,Romil,SVs
-Fiberlight,3/6/22,10,Romil,SVs
-Fiberlight,3/13/22,3,Romil,SVs
-Fiberlight,3/20/22,1,Romil,SVs
-Fiberlight,3/28/22,3,Romil,SVs
-Fiberlight,4/4/22,3,Romil,SVs
-Fiberlight,4/11/22,12,Romil,SVs
-Fiberlight,4/18/22,10,Romil,SVs
-Fiberlight,4/25/22,9,Romil,SVs
-Fiberlight,5/2/22,8,Romil,SVs
-Fiberlight,5/9/22,5,Romil,SVs
-Fiberlight,5/16/22,17,Romil,SVs
-Fiberlight,5/23/22,5,Romil,SVs
-Fiberlight,5/30/22,2,Romil,SVs
-Fiberlight,6/6/22,3,Romil,SVs
-Fiberlight,6/13/22,13,Romil,SVs
-Fiberlight,6/21/22,44,Romil,SVs
-Packetfabric,10/31/21,2,Romil,SVs
-Packetfabric,11/7/21,335,Romil,SVs
-Packetfabric,11/14/21,8,Romil,SVs
-Packetfabric,11/21/21,15,Romil,SVs
-Packetfabric,11/28/21,12,Romil,SVs
-Packetfabric,12/5/21,19,Romil,SVs
-Packetfabric,12/12/21,14,Romil,SVs
-Packetfabric,12/19/21,7,Romil,SVs
-Packetfabric,12/27/21,115,Romil,SVs
-Packetfabric,1/2/22,10,Romil,SVs
-Packetfabric,1/9/22,8,Romil,SVs
-Packetfabric,1/16/22,7,Romil,SVs
-Packetfabric,1/23/22,5,Romil,SVs
-Packetfabric,1/30/22,7,Romil,SVs
-Packetfabric,2/6/22,19,Romil,SVs
-Packetfabric,2/13/22,4,Romil,SVs
-Packetfabric,2/20/22,9,Romil,SVs
-Packetfabric,2/27/22,2,Romil,SVs
-Packetfabric,3/6/22,16,Romil,SVs
-Packetfabric,3/13/22,18,Romil,SVs
-Packetfabric,3/20/22,12,Romil,SVs
-Packetfabric,3/28/22,13,Romil,SVs
-Packetfabric,4/4/22,10,Romil,SVs
-Packetfabric,4/11/22,11,Romil,SVs
-Packetfabric,4/18/22,8,Romil,SVs
-Packetfabric,4/25/22,6,Romil,SVs
-Packetfabric,5/2/22,11,Romil,SVs
-Packetfabric,5/9/22,29,Romil,SVs
-Packetfabric,5/16/22,22,Romil,SVs
-Packetfabric,5/23/22,10,Romil,SVs
-Packetfabric,5/30/22,13,Romil,SVs
-Packetfabric,6/6/22,14,Romil,SVs
-Packetfabric,6/13/22,8,Romil,SVs
-Packetfabric,6/21/22,10,Romil,SVs
-NewRelic,10/31/21,,Romil,SVs
-NewRelic,11/7/21,,Romil,SVs
-NewRelic,11/14/21,,Romil,SVs
-NewRelic,11/21/21,,Romil,SVs
-NewRelic,11/28/21,,Romil,SVs
-NewRelic,12/5/21,,Romil,SVs
-NewRelic,12/12/21,,Romil,SVs
-NewRelic,12/19/21,,Romil,SVs
-NewRelic,12/27/21,,Romil,SVs
-NewRelic,1/2/22,,Romil,SVs
-NewRelic,1/9/22,,Romil,SVs
-NewRelic,1/16/22,,Romil,SVs
-NewRelic,1/23/22,,Romil,SVs
-NewRelic,1/30/22,134,Romil,SVs
-NewRelic,2/6/22,3,Romil,SVs
-NewRelic,2/13/22,3,Romil,SVs
-NewRelic,2/20/22,6,Romil,SVs
-NewRelic,2/27/22,5,Romil,SVs
-NewRelic,3/6/22,3,Romil,SVs
-NewRelic,3/13/22,4,Romil,SVs
-NewRelic,3/20/22,1,Romil,SVs
-NewRelic,3/28/22,4,Romil,SVs
-NewRelic,4/4/22,14,Romil,SVs
-NewRelic,4/11/22,5,Romil,SVs
-NewRelic,4/18/22,5,Romil,SVs
-NewRelic,4/25/22,2,Romil,SVs
-NewRelic,5/2/22,7,Romil,SVs
-NewRelic,5/9/22,6,Romil,SVs
-NewRelic,5/16/22,17,Romil,SVs
-NewRelic,5/23/22,4,Romil,SVs
-NewRelic,5/30/22,0,Romil,SVs
-NewRelic,6/6/22,13,Romil,SVs
-NewRelic,6/13/22,7,Romil,SVs
-NewRelic,6/21/22,1,Romil,SVs
-BCMOne,10/31/21,,Romil,SVs
-BCMOne,11/7/21,,Romil,SVs
-BCMOne,11/14/21,,Romil,SVs
-BCMOne,11/21/21,,Romil,SVs
-BCMOne,11/28/21,,Romil,SVs
-BCMOne,12/5/21,,Romil,SVs
-BCMOne,12/12/21,,Romil,SVs
-BCMOne,12/19/21,,Romil,SVs
-BCMOne,12/27/21,,Romil,SVs
-BCMOne,1/2/22,,Romil,SVs
-BCMOne,1/9/22,,Romil,SVs
-BCMOne,1/16/22,,Romil,SVs
-BCMOne,1/23/22,,Romil,SVs
-BCMOne,1/30/22,,Romil,SVs
-BCMOne,2/6/22,,Romil,SVs
-BCMOne,2/13/22,53,Romil,SVs
-BCMOne,2/20/22,0,Romil,SVs
-BCMOne,2/27/22,111,Romil,SVs
-BCMOne,3/6/22,0,Romil,SVs
-BCMOne,3/13/22,23,Romil,SVs
-BCMOne,3/20/22,0,Romil,SVs
-BCMOne,3/28/22,0,Romil,SVs
-BCMOne,4/4/22,0,Romil,SVs
-BCMOne,4/11/22,0,Romil,SVs
-BCMOne,4/18/22,0,Romil,SVs
-BCMOne,4/25/22,0,Romil,SVs
-BCMOne,5/2/22,0,Romil,SVs
-BCMOne,5/9/22,0,Romil,SVs
-BCMOne,5/16/22,0,Romil,SVs
-BCMOne,5/23/22,2,Romil,SVs
-BCMOne,5/30/22,2,Romil,SVs
-BCMOne,6/6/22,0,Romil,SVs
-BCMOne,6/13/22,0,Romil,SVs
-BCMOne,6/21/22,0,Romil,SVs
-Dwellworks,10/31/21,,Romil,PartyFix
-Dwellworks,11/7/21,,Romil,PartyFix
-Dwellworks,11/14/21,26,Romil,PartyFix
-Dwellworks,11/21/21,2,Romil,PartyFix
-Dwellworks,11/28/21,3,Romil,PartyFix
-Dwellworks,12/5/21,1,Romil,PartyFix
-Dwellworks,12/12/21,6,Romil,PartyFix
-Dwellworks,12/19/21,0,Romil,PartyFix
-Dwellworks,12/27/21,2,Romil,PartyFix
-Dwellworks,1/2/22,0,Romil,PartyFix
-Dwellworks,1/9/22,0,Romil,PartyFix
-Dwellworks,1/16/22,50,Romil,PartyFix
-Dwellworks,1/23/22,1,Romil,PartyFix
-Dwellworks,1/30/22,1,Romil,PartyFix
-Dwellworks,2/6/22,12,Romil,PartyFix
-Dwellworks,2/13/22,13,Romil,PartyFix
-Dwellworks,2/20/22,8,Romil,PartyFix
-Dwellworks,2/27/22,3,Romil,PartyFix
-Dwellworks,3/6/22,2,Romil,PartyFix
-Dwellworks,3/13/22,11,Romil,PartyFix
-Dwellworks,3/20/22,1,Romil,PartyFix
-Dwellworks,3/28/22,6,Romil,PartyFix
-Dwellworks,4/4/22,1,Romil,PartyFix
-Dwellworks,4/11/22,4,Romil,PartyFix
-Dwellworks,4/18/22,62,Romil,PartyFix
-Dwellworks,4/25/22,10,Romil,PartyFix
-Dwellworks,5/2/22,6,Romil,PartyFix
-Dwellworks,5/9/22,8,Romil,PartyFix
-Dwellworks,5/16/22,22,Romil,PartyFix
-Dwellworks,5/23/22,7,Romil,PartyFix
-Dwellworks,5/30/22,2,Romil,PartyFix
-Dwellworks,6/6/22,3,Romil,PartyFix
-Dwellworks,6/13/22,2,Romil,PartyFix
-Dwellworks,6/21/22,5,Romil,PartyFix
-Pros Holding,10/31/21,,Romil,SVs
-Pros Holding,11/7/21,,Romil,SVs
-Pros Holding,11/14/21,,Romil,SVs
-Pros Holding,11/21/21,,Romil,SVs
-Pros Holding,11/28/21,,Romil,SVs
-Pros Holding,12/5/21,,Romil,SVs
-Pros Holding,12/12/21,,Romil,SVs
-Pros Holding,12/19/21,,Romil,SVs
-Pros Holding,12/27/21,,Romil,SVs
-Pros Holding,1/2/22,,Romil,SVs
-Pros Holding,1/9/22,,Romil,SVs
-Pros Holding,1/16/22,,Romil,SVs
-Pros Holding,1/23/22,,Romil,SVs
-Pros Holding,1/30/22,,Romil,SVs
-Pros Holding,2/6/22,,Romil,SVs
-Pros Holding,2/13/22,,Romil,SVs
-Pros Holding,2/20/22,,Romil,SVs
-Pros Holding,2/27/22,,Romil,SVs
-Pros Holding,3/6/22,,Romil,SVs
-Pros Holding,3/13/22,,Romil,SVs
-Pros Holding,3/20/22,,Romil,SVs
-Pros Holding,3/28/22,,Romil,SVs
-Pros Holding,4/4/22,,Romil,SVs
-Pros Holding,4/11/22,,Romil,SVs
-Pros Holding,4/18/22,,Romil,SVs
-Pros Holding,4/25/22,,Romil,SVs
-Pros Holding,5/2/22,,Romil,SVs
-Pros Holding,5/9/22,,Romil,SVs
-Pros Holding,5/16/22,,Romil,SVs
-Pros Holding,5/23/22,223,Romil,SVs
-Pros Holding,5/30/22,5,Romil,SVs
-Pros Holding,6/6/22,23,Romil,SVs
-Pros Holding,6/13/22,23,Romil,SVs
-Pros Holding,6/21/22,49,Romil,SVs
-Aveo,10/31/21,,Romil,SVs
-Aveo,11/7/21,,Romil,SVs
-Aveo,11/14/21,,Romil,SVs
-Aveo,11/21/21,,Romil,SVs
-Aveo,11/28/21,,Romil,SVs
-Aveo,12/5/21,,Romil,SVs
-Aveo,12/12/21,,Romil,SVs
-Aveo,12/19/21,,Romil,SVs
-Aveo,12/27/21,,Romil,SVs
-Aveo,1/2/22,,Romil,SVs
-Aveo,1/9/22,,Romil,SVs
-Aveo,1/16/22,,Romil,SVs
-Aveo,1/23/22,,Romil,SVs
-Aveo,1/30/22,,Romil,SVs
-Aveo,2/6/22,,Romil,SVs
-Aveo,2/13/22,36,Romil,SVs
-Aveo,2/20/22,7,Romil,SVs
-Aveo,2/27/22,7,Romil,SVs
-Aveo,3/6/22,5,Romil,SVs
-Aveo,3/13/22,14,Romil,SVs
-Aveo,3/20/22,6,Romil,SVs
-Aveo,3/28/22,13,Romil,SVs
-Aveo,4/4/22,28,Romil,SVs
-Aveo,4/11/22,15,Romil,SVs
-Aveo,4/18/22,9,Romil,SVs
-Aveo,4/25/22,6,Romil,SVs
-Aveo,5/2/22,14,Romil,SVs
-Aveo,5/9/22,15,Romil,SVs
-Aveo,5/16/22,12,Romil,SVs
-Aveo,5/23/22,18,Romil,SVs
-Aveo,5/30/22,10,Romil,SVs
-Aveo,6/6/22,19,Romil,SVs
-Aveo,6/13/22,11,Romil,SVs
-Aveo,6/21/22,0,Romil,SVs
-EngageSmart,10/31/21,,Romil,PartyFix
-EngageSmart,11/7/21,,Romil,SVs
-EngageSmart,11/14/21,,Romil,SVs
-EngageSmart,11/21/21,,Romil,SVs
-EngageSmart,11/28/21,,Romil,SVs
-EngageSmart,12/5/21,,Romil,SVs
-EngageSmart,12/12/21,,Romil,SVs
-EngageSmart,12/19/21,,Romil,SVs
-EngageSmart,12/27/21,,Romil,SVs
-EngageSmart,1/2/22,,Romil,SVs
-EngageSmart,1/9/22,,Romil,SVs
-EngageSmart,1/16/22,,Romil,SVs
-EngageSmart,1/23/22,,Romil,SVs
-EngageSmart,1/30/22,,Romil,SVs
-EngageSmart,2/6/22,,Romil,SVs
-EngageSmart,2/13/22,,Romil,SVs
-EngageSmart,2/20/22,,Romil,SVs
-EngageSmart,2/27/22,,Romil,SVs
-EngageSmart,3/6/22,,Romil,SVs
-EngageSmart,3/13/22,,Romil,SVs
-EngageSmart,3/20/22,,Romil,SVs
-EngageSmart,3/28/22,,Romil,SVs
-EngageSmart,4/4/22,,Romil,SVs
-EngageSmart,4/11/22,,Romil,SVs
-EngageSmart,4/18/22,,Romil,SVs
-EngageSmart,4/25/22,,Romil,SVs
-EngageSmart,5/2/22,,Romil,SVs
-EngageSmart,5/9/22,,Romil,SVs
-EngageSmart,5/16/22,,Romil,SVs
-EngageSmart,5/23/22,14,Romil,SVs
-EngageSmart,5/30/22,5,Romil,SVs
-EngageSmart,6/6/22,11,Romil,SVs
-EngageSmart,6/13/22,91,Romil,SVs
-EngageSmart,6/21/22,30,Romil,SVs
-Ravenswood,10/31/21,0,Romil,SVs
-Ravenswood,11/7/21,0,Romil,SVs
-Ravenswood,11/14/21,0,Romil,SVs
-Ravenswood,11/21/21,0,Romil,SVs
-Ravenswood,11/28/21,0,Romil,SVs
-Ravenswood,12/5/21,0,Romil,SVs
-Ravenswood,12/12/21,25,Romil,SVs
-Ravenswood,12/19/21,0,Romil,SVs
-Ravenswood,12/27/21,0,Romil,SVs
-Ravenswood,1/2/22,0,Romil,SVs
-Ravenswood,1/9/22,0,Romil,SVs
-Ravenswood,1/16/22,0,Romil,SVs
-Ravenswood,1/23/22,0,Romil,SVs
-Ravenswood,1/30/22,0,Romil,SVs
-Ravenswood,2/6/22,0,Romil,SVs
-Ravenswood,2/13/22,0,Romil,SVs
-Ravenswood,2/20/22,0,Romil,SVs
-Ravenswood,2/27/22,0,Romil,SVs
-Ravenswood,3/6/22,36,Romil,SVs
-Ravenswood,3/13/22,0,Romil,SVs
-Ravenswood,3/20/22,0,Romil,SVs
-Ravenswood,3/28/22,0,Romil,SVs
-Ravenswood,4/4/22,1,Romil,SVs
-Ravenswood,4/11/22,0,Romil,SVs
-Ravenswood,4/18/22,0,Romil,SVs
-Ravenswood,4/25/22,0,Romil,SVs
-Ravenswood,5/2/22,0,Romil,SVs
-Ravenswood,5/9/22,0,Romil,SVs
-Ravenswood,5/16/22,0,Romil,SVs
-Ravenswood,5/23/22,0,Romil,SVs
-Ravenswood,5/30/22,0,Romil,SVs
-Ravenswood,6/6/22,0,Romil,SVs
-Ravenswood,6/13/22,0,Romil,SVs
-Ravenswood,6/21/22,0,Romil,SVs
+﻿Company,Date,Agreements,User,Task,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,6/27/22,30,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,7/4/22,10,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,7/11/22,3,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,7/18/22,9,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,7/25/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,8/1/22,17,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,8/8/22,9,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,8/15/22,5,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,8/22/22,11,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,8/29/22,11,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,6/27/22,19,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,7/4/22,10,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,7/11/22,5,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,7/18/22,8,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,7/25/22,10,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,8/1/22,10,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,8/8/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,8/15/22,4,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,8/22/22,5,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,8/29/22,6,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,6/27/22,80,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,7/4/22,7,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,7/11/22,24,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,7/18/22,32,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,7/25/22,32,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,8/1/22,40,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,8/8/22,37,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,8/15/22,30,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,8/22/22,72,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,8/29/22,25,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,6/27/22,4,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,7/4/22,43,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,7/11/22,5,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,7/18/22,35,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,7/25/22,2,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,8/1/22,6,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,8/8/22,5,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,8/15/22,5,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,8/22/22,10,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,8/29/22,19,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,6/27/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,7/4/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,7/11/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,7/18/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,7/25/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,8/1/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,8/8/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,8/15/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,8/22/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,8/29/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,6/27/22,44,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,7/4/22,3,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,7/11/22,8,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,7/18/22,14,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,7/25/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,8/1/22,5,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,8/8/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,8/15/22,33,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,8/22/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,8/29/22,4,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,6/27/22,25,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,7/4/22,27,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,7/11/22,14,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,7/18/22,16,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,7/25/22,12,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,8/1/22,11,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,8/8/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,8/15/22,11,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,8/22/22,7,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,8/29/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,6/27/22,13,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,7/4/22,4,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,7/11/22,8,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,7/18/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,7/25/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,8/1/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,8/8/22,3,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,8/15/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,8/22/22,5,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,8/29/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,6/27/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,7/4/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,7/11/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,7/18/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,7/25/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,8/1/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,8/8/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,8/15/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,8/22/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,8/29/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,6/27/22,8,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,7/4/22,2,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,7/11/22,0,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,7/18/22,6,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,7/25/22,0,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,8/1/22,1,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,8/8/22,5,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,8/15/22,3,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,8/22/22,0,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,8/29/22,5,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,6/27/22,75,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,7/4/22,28,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,7/11/22,25,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,7/18/22,18,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,7/25/22,30,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,8/1/22,48,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,8/8/22,23,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,8/15/22,22,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,8/22/22,21,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,8/29/22,34,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,6/27/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,7/4/22,33,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,7/11/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,7/18/22,16,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,7/25/22,9,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,8/1/22,18,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,8/8/22,7,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,8/15/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,8/22/22,9,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,8/29/22,6,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,6/27/22,18,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,7/4/22,90,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,7/11/22,50,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,7/18/22,11,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,7/25/22,11,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,8/1/22,10,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,8/8/22,18,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,8/15/22,20,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,8/22/22,4,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,8/29/22,8,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,6/27/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,7/4/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,7/11/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,7/18/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,7/25/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,8/1/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,8/8/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,8/15/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,8/22/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,8/29/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,6/27/22,75,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,7/4/22,38,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,7/11/22,5,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,7/18/22,7,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,7/25/22,5,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,8/1/22,11,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,8/8/22,10,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,8/15/22,13,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,8/22/22,7,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,8/29/22,13,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,6/27/22,32,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,7/4/22,49,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,7/11/22,14,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,7/18/22,25,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,7/25/22,10,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,8/1/22,24,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,8/8/22,21,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,8/15/22,11,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,8/22/22,3,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,8/29/22,3,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,6/27/22,11,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,7/4/22,6,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,7/11/22,5,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,7/18/22,3,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,7/25/22,7,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,8/1/22,13,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,8/8/22,8,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,8/15/22,3,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,8/22/22,3,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,8/29/22,7,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,6/27/22,20,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,7/4/22,10,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,7/11/22,25,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,7/18/22,9,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,7/25/22,8,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,8/1/22,31,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,8/8/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,8/15/22,4,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,8/22/22,28,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,8/29/22,17,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,6/27/22,23,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,7/4/22,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,7/11/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,7/18/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,7/25/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,8/1/22,25,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,8/8/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,8/15/22,11,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,8/22/22,4,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,8/29/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,6/27/22,43,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,7/4/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,7/11/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,7/18/22,30,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,7/25/22,46,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,8/1/22,18,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,8/8/22,11,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,8/15/22,9,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,8/22/22,13,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,8/29/22,8,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,6/27/22,8,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,7/4/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,7/11/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,7/18/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,7/25/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,8/1/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,8/8/22,7,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,8/15/22,5,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,8/22/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,8/29/22,5,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,6/27/22,4,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,7/4/22,3,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,7/11/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,7/18/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,7/25/22,5,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,8/1/22,6,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,8/8/22,1,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,8/15/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,8/22/22,3,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,8/29/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,6/27/22,74,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,7/4/22,3,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,7/11/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,7/18/22,150,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,7/25/22,21,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/1/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/8/22,831,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/15/22,431,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/22/22,37,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/29/22,145,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,6/27/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,7/4/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,7/11/22,12,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,7/18/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,7/25/22,16,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,8/1/22,9,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,8/8/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,8/15/22,7,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,8/22/22,8,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Haivision,8/29/22,46,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,10/31/21,3,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,11/7/21,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,11/14/21,7,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,11/21/21,6,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,11/28/21,9,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,12/5/21,9,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,12/12/21,6,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,12/19/21,26,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,12/27/21,30,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,1/2/22,23,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,1/9/22,19,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,1/16/22,9,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,1/23/22,19,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,1/30/22,9,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,2/6/22,17,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,2/13/22,5,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,2/20/22,9,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,2/27/22,13,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,3/6/22,8,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,3/13/22,9,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,3/20/22,19,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,3/28/22,10,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,4/4/22,27,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,4/11/22,4,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,4/18/22,11,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,4/25/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,5/2/22,10,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,5/9/22,15,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,5/16/22,12,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,5/23/22,15,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,5/30/22,16,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,6/6/22,22,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,6/13/22,14,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,6/21/22,75,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,10/31/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,11/7/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,11/14/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,11/21/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,11/28/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,12/5/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,12/12/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,12/19/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,12/27/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,1/2/22,17,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,1/9/22,1,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,1/16/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,1/23/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,1/30/22,10,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,2/6/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,2/13/22,4,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,2/20/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,2/27/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,3/6/22,8,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,3/13/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,3/20/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,3/28/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,4/4/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,4/11/22,17,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,4/18/22,25,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,4/25/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,5/2/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,5/9/22,7,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,5/16/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,5/23/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,5/30/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,6/6/22,2,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,6/13/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,6/21/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,10/31/21,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,11/7/21,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,11/14/21,5,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,11/21/21,10,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,11/28/21,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,12/5/21,3,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,12/12/21,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,12/19/21,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,12/27/21,10,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,1/2/22,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,1/9/22,37,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,1/16/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,1/23/22,3,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,1/30/22,12,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,2/6/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,2/13/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,2/20/22,4,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,2/27/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,3/6/22,22,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,3/13/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,3/20/22,4,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,3/28/22,25,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,4/4/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,4/11/22,25,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,4/18/22,24,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,4/25/22,7,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,5/2/22,5,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,5/9/22,15,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,5/16/22,11,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,5/23/22,66,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,5/30/22,10,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,6/6/22,8,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,6/13/22,10,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,6/21/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,10/31/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,11/7/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,11/14/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,11/21/21,111,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,11/28/21,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,12/5/21,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,12/12/21,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,12/19/21,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,12/27/21,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,1/2/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,1/9/22,57,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,1/16/22,186,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,1/23/22,15,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,1/30/22,23,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,2/6/22,7,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,2/13/22,14,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,2/20/22,13,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,2/27/22,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,3/6/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,3/13/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,3/20/22,3,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,3/28/22,4,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,4/4/22,10,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,4/11/22,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,4/18/22,9,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,4/25/22,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,5/2/22,13,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,5/9/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,5/16/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,5/23/22,15,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,5/30/22,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,6/6/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,6/13/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,6/21/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,10/31/21,24,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,11/7/21,22,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,11/14/21,18,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,11/21/21,8,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,11/28/21,16,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,12/5/21,18,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,12/12/21,13,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,12/19/21,9,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,12/27/21,7,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,1/2/22,21,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,1/9/22,11,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,1/16/22,26,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,1/23/22,13,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,1/30/22,22,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,2/6/22,14,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,2/13/22,7,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,2/20/22,14,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,2/27/22,17,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,3/6/22,35,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,3/13/22,5,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,3/20/22,20,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,3/28/22,16,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,4/4/22,51,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,4/11/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,4/18/22,13,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,4/25/22,17,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,5/2/22,10,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,5/9/22,14,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,5/16/22,15,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,5/23/22,154,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,5/30/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,6/6/22,177,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,6/13/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,6/21/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,10/31/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,11/7/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,11/14/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,11/21/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,11/28/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,12/5/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,12/12/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,12/19/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,12/27/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,1/2/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,1/9/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,1/16/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,1/23/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,1/30/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,2/6/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,2/13/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,2/20/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,2/27/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,3/6/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,3/13/22,9,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,3/20/22,5,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,3/28/22,11,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,4/4/22,10,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,4/11/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,4/18/22,3,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,4/25/22,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,5/2/22,9,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,5/9/22,3,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,5/16/22,4,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,5/23/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,5/30/22,2,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,6/6/22,3,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,6/13/22,6,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,6/21/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,10/31/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,11/7/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,11/14/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,11/21/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,11/28/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,12/5/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,12/12/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,12/19/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,12/27/21,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,1/2/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,1/9/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,1/16/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,1/23/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,1/30/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,2/6/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,2/13/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,2/20/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,2/27/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,3/6/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,3/13/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,3/20/22,,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,3/28/22,9,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,4/4/22,5,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,4/11/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,4/18/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,4/25/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,5/2/22,1,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,5/9/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,5/16/22,1,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,5/23/22,1,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,5/30/22,4,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,6/6/22,4,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,6/13/22,1,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,6/21/22,0,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,10/31/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,11/7/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,11/14/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,11/21/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,11/28/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,12/5/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,12/12/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,12/19/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,12/27/21,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,1/2/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,1/9/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,1/16/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,1/23/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,1/30/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,2/6/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,2/13/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,2/20/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,2/27/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,3/6/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,3/13/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,3/20/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,3/28/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,4/4/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,4/11/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,4/18/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,4/25/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,5/2/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,5/9/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,5/16/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,5/23/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,5/30/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,6/6/22,,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,6/13/22,28,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,6/21/22,74,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,6/27/22,74,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,7/4/22,3,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,7/11/22,1,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,7/18/22,150,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,7/25/22,21,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/1/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/8/22,831,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/15/22,431,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/22/22,37,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,8/29/22,145,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TradeStation,9/6/22,17,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Redox,9/6/22,6,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Parent Co,9/6/22,0,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AbioMed,9/6/22,42,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Skyhawk,9/6/22,11,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aldevron,9/6/22,7,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tapad,9/6/22,6,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sectigo,9/6/22,32,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Onapsis,9/6/22,10,Nivedita,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ConvergeOne ,9/6/22,10,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SynapseFI,9/6/22,4,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DSG,9/6/22,33,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TrustedHealth,9/6/22,11,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DataRobot,9/6/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fiberlight,9/6/22,6,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Packetfabric,9/6/22,5,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NewRelic,9/6/22,2,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BCMOne,9/6/22,1,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Dwellworks,9/6/22,3,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pros Holding,9/6/22,35,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aveo,9/6/22,25,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EngageSmart,9/6/22,12,Romil,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ravenswood,9/6/22,0,Romil,SVs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Orca,8/22/22,8,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Orca,8/29/22,24,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Orca,9/6/22,31,Nivedita,PartyFix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

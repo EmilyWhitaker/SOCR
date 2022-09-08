@@ -70,22 +70,40 @@ SOCRtrack_Emily_2<-SOCRtrack_Emily_2 %>%
           'Task' = Group.3,
           "Agreements"= x)
 
-
-SOCRtrack_Mat <-filter(SOCRtrack1, User == 'Mat')
-SOCRtrack_perperson_Mat  <- aggregate(SOCRtrack_Mat["Agreements"], by=SOCRtrack_Mat["Date"], sum)
-
-SOCRtrack_Tanya <-filter(SOCRtrack1, User == 'Mat')
-SOCRtrack_perperson_Tanya  <- aggregate(SOCRtrack_Tanya["Agreements"], by=SOCRtrack_Tanya["Date"], sum)
-
-SOCR_work_pp<- rbind (SOCRtrack_Maddy_2, SOCRtrack_Emily_2)
+SOCRtrack_Mat_1=subset(SOCRtrack1, User== 'Mat')
+SOCRtrack_Mat_2  <- aggregate(SOCRtrack_Mat_1$Agreements, by = list(SOCRtrack_Mat_1$Date, SOCRtrack_Mat_1$User,SOCRtrack_Mat_1$Task ), FUN = sum)
 
 
-SOCR_work_pp2<-SOCR_work_pp %>%
-  rename( 'Maddy'=Agreements.x, 
-          'Emily'= Agreements.y)
+SOCRtrack_Mat_2<-SOCRtrack_Mat_2 %>%
+  rename( 'Date'=Group.1, 
+          'User'= Group.2,
+          'Task' = Group.3,
+          "Agreements"= x)
+
+SOCRtrack_Tanya_1=subset(SOCRtrack1, User== 'Tanya')
+SOCRtrack_Tanya_2  <- aggregate(SOCRtrack_Tanya_1$Agreements, by = list(SOCRtrack_Tanya_1$Date, SOCRtrack_Tanya_1$User,SOCRtrack_Tanya_1$Task ), FUN = sum)
 
 
-timeline2 <- ggplot(SOCR_work_pp, aes(x= Date, y=Agreements))+
+SOCRtrack_Tanya_2<-SOCRtrack_Tanya_2 %>%
+  rename( 'Date'=Group.1, 
+          'User'= Group.2,
+          'Task' = Group.3,
+          "Agreements"= x)
+
+
+SOCR_work_pp_ME<- rbind (SOCRtrack_Maddy_2, SOCRtrack_Emily_2)
+
+
+SOCR_work_pp_MMTE<- rbind (SOCRtrack_Maddy_2, SOCRtrack_Emily_2,SOCRtrack_Tanya_2,SOCRtrack_Mat_2 )
+
+
+
+#SOCR_work_pp2<-SOCR_work_pp_ME %>%
+#  rename( 'Maddy'=Agreements.x, 
+#          'Emily'= Agreements.y)
+
+
+timeline2 <- ggplot(SOCR_work_pp_ME, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
   #ylim(0,200)+
@@ -105,5 +123,28 @@ timeline2 <- ggplot(SOCR_work_pp, aes(x= Date, y=Agreements))+
   facet_grid('User')
 timeline2
 
-#ggsave("Maddy_and_Emily_totals.png", plot = last_plot(), height = 10, width = 12, units = "in")
+#ggsave("MaddyandEmilyOCR.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
+timeline_all_OCR <- ggplot(SOCR_work_pp_MMTE, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  #ylim(0,200)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-09-30")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-10-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-11-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-01-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-02-28")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-05-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-07-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-08-31")), linetype=3)+
+  theme_bw() +
+  facet_grid('User')
+timeline_all_OCR
+
+#ggsave("AllOCR.png", plot = last_plot(), height = 10, width = 12, units = "in")
 

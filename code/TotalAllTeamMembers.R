@@ -15,7 +15,7 @@ library(scales)
 
 # combo of all agreements and type of work breakdown 
 
-SOCR_work_by_Task_Type<- rbind (SOCR_work_pp, SOCR_SVTeam_Totals_Task)
+SOCR_work_by_Task_Type<- rbind (SOCR_work_pp_MMTE, SOCR_SVTeam_Totals_Task)
 
 SOCR_AllTeam_Totals_Task_time <- ggplot(SOCR_work_by_Task_Type, aes(x= Date, y=Agreements))+
   geom_line()+
@@ -74,7 +74,7 @@ ggsave("AllTaskType.png", plot = last_plot(), height = 10, width = 12, units = "
 
 
 ###Not by Task 
-SOSOCR_work_pp_no_task= subset(SOCR_work_pp, select = c(Date, User, Agreements))
+SOSOCR_work_pp_no_task= subset(SOCR_work_pp_MMTE, select = c(Date, User, Agreements))
 SOCR_work_by_Person<- rbind (SOSOCR_work_pp_no_task, SOCR_SVTeam_Totals)
 
 

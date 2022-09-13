@@ -1,313 +1,325 @@
-﻿Company,Date,Agreements,User,Task
-TripleLift,10/31/21,39,Emily ,OCR
-TripleLift,11/7/21,19,Emily ,OCR
-TripleLift,11/14/21,18,Emily ,OCR
-TripleLift,11/21/21,24,Emily ,OCR
-TripleLift,11/28/21,11,Emily ,OCR
-TripleLift,12/5/21,20,Emily ,OCR
-TripleLift,12/12/21,21,Emily ,OCR
-TripleLift,12/19/21,27,Emily ,OCR
-TripleLift,12/27/21,11,Emily ,OCR
-TripleLift,1/2/22,5,Emily ,OCR
-TripleLift,1/9/22,24,Emily ,OCR
-TripleLift,1/16/22,17,Emily ,OCR
-TripleLift,1/23/22,19,Emily ,OCR
-TripleLift,1/30/22,20,Emily ,OCR
-TripleLift,2/6/22,18,Emily ,OCR
-TripleLift,2/13/22,19,Emily ,OCR
-TripleLift,2/20/22,18,Emily ,OCR
-TripleLift,2/27/22,15,Emily ,OCR
-TripleLift,3/6/22,14,Emily ,OCR
-TripleLift,3/13/22,16,Emily ,OCR
-TripleLift,3/20/22,20,Emily ,OCR
-TripleLift,3/28/22,179,Emily ,OCR
-TripleLift,4/4/22,26,Emily ,OCR
-TripleLift,4/11/22,13,Emily ,OCR
-TripleLift,4/18/22,18,Emily ,OCR
-TripleLift,4/25/22,21,Emily ,OCR
-TripleLift,5/2/22,22,Emily ,OCR
-TripleLift,5/9/22,24,Emily ,OCR
-TripleLift,5/16/22,46,Emily ,OCR
-TripleLift,5/23/22,17,Emily ,OCR
-TripleLift,5/30/22,18,Emily ,OCR
-TripleLift,6/6/22,13,Emily ,OCR
-TripleLift,6/13/22,24,Emily ,OCR
-TripleLift,6/21/22,37,Emily ,OCR
-TripleLift,6/27/22,17,Emily ,OCR
-TripleLift,7/4/22,14,Emily ,OCR
-TripleLift,7/11/22,18,Emily ,OCR
-TripleLift,7/18/22,17,Emily ,OCR
-TripleLift,7/25/22,6,Emily ,OCR
-TripleLift,8/1/22,26,Emily ,OCR
-TripleLift,8/8/22,10,Emily ,OCR
-TripleLift,8/15/22,140,Emily ,OCR
-TripleLift,8/22/22,47,Emily ,OCR
-CyberArk,10/31/21,306,Emily ,OCR
-CyberArk,11/7/21,41,Emily ,OCR
-CyberArk,11/14/21,69,Emily ,OCR
-CyberArk,11/21/21,40,Emily ,OCR
-CyberArk,11/28/21,33,Emily ,OCR
-CyberArk,12/5/21,38,Emily ,OCR
-CyberArk,12/12/21,123,Emily ,OCR
-CyberArk,12/19/21,70,Emily ,OCR
-CyberArk,12/27/21,119,Emily ,OCR
-CyberArk,1/2/22,31,Emily ,OCR
-CyberArk,1/9/22,18,Emily ,OCR
-CyberArk,1/16/22,40,Emily ,OCR
-CyberArk,1/23/22,27,Emily ,OCR
-CyberArk,1/30/22,31,Emily ,OCR
-CyberArk,2/6/22,52,Emily ,OCR
-CyberArk,2/13/22,33,Emily ,OCR
-CyberArk,2/20/22,43,Emily ,OCR
-CyberArk,2/27/22,30,Emily ,OCR
-CyberArk,3/6/22,38,Emily ,OCR
-CyberArk,3/13/22,39,Emily ,OCR
-CyberArk,3/20/22,34,Emily ,OCR
-CyberArk,3/28/22,74,Emily ,OCR
-CyberArk,4/4/22,75,Emily ,OCR
-CyberArk,4/11/22,69,Emily ,OCR
-CyberArk,4/18/22,30,Emily ,OCR
-CyberArk,4/25/22,80,Emily ,OCR
-CyberArk,5/2/22,42,Emily ,OCR
-CyberArk,5/9/22,71,Emily ,OCR
-CyberArk,5/16/22,137,Emily ,OCR
-CyberArk,5/23/22,42,Emily ,OCR
-CyberArk,5/30/22,44,Emily ,OCR
-CyberArk,6/6/22,53,Emily ,OCR
-CyberArk,6/13/22,43,Emily ,OCR
-CyberArk,6/21/22,12,Emily ,OCR
-CyberArk,6/27/22,55,Emily ,OCR
-CyberArk,7/4/22,50,Emily ,OCR
-CyberArk,7/11/22,58,Emily ,OCR
-CyberArk,7/18/22,36,Emily ,OCR
-CyberArk,7/25/22,40,Emily ,OCR
-CyberArk,8/1/22,76,Emily ,OCR
-CyberArk,8/8/22,32,Emily ,OCR
-CyberArk,8/15/22,29,Emily ,OCR
-CyberArk,8/22/22,29,Emily ,OCR
-Accelya,10/31/21,0,Emily ,OCR
-Accelya,11/7/21,0,Emily ,OCR
-Accelya,11/14/21,0,Emily ,OCR
-Accelya,11/21/21,449,Emily ,OCR
-Accelya,11/28/21,0,Emily ,OCR
-Accelya,12/5/21,0,Emily ,OCR
-Accelya,12/12/21,0,Emily ,OCR
-Accelya,12/19/21,3,Emily ,OCR
-Accelya,12/27/21,2,Emily ,OCR
-Accelya,1/2/22,2,Emily ,OCR
-Accelya,1/9/22,18,Emily ,OCR
-Accelya,1/16/22,0,Emily ,OCR
-Accelya,1/23/22,0,Emily ,OCR
-Accelya,1/30/22,2,Emily ,OCR
-Accelya,2/6/22,0,Emily ,OCR
-Accelya,2/13/22,4,Emily ,OCR
-Accelya,2/20/22,7,Emily ,OCR
-Accelya,2/27/22,2,Emily ,OCR
-Accelya,3/6/22,18,Emily ,OCR
-Accelya,3/13/22,2,Emily ,OCR
-Accelya,3/20/22,3,Emily ,OCR
-Accelya,3/28/22,1,Emily ,OCR
-Accelya,4/4/22,3,Emily ,OCR
-Accelya,4/11/22,4,Emily ,OCR
-Accelya,4/18/22,1,Emily ,OCR
-Accelya,4/25/22,0,Emily ,OCR
-Accelya,5/2/22,1,Emily ,OCR
-Accelya,5/9/22,8,Emily ,OCR
-Accelya,5/16/22,6,Emily ,OCR
-Accelya,5/23/22,5,Emily ,OCR
-Accelya,5/30/22,12,Emily ,OCR
-Accelya,6/6/22,26,Emily ,OCR
-Accelya,6/13/22,5,Emily ,OCR
-Accelya,6/21/22,17,Emily ,OCR
-Accelya,6/27/22,2,Emily ,OCR
-Accelya,7/4/22,165,Emily ,OCR
-Accelya,7/11/22,1,Emily ,OCR
-Accelya,7/18/22,10,Emily ,OCR
-Accelya,7/25/22,161,Emily ,OCR
-Accelya,8/1/22,113,Emily ,OCR
-Accelya,8/8/22,17,Emily ,OCR
-Accelya,8/15/22,4,Emily ,OCR
-Accelya,8/22/22,3,Emily ,OCR
-Rokt,10/31/21,20,Emily ,OCR
-Rokt,11/7/21,13,Emily ,OCR
-Rokt,11/14/21,8,Emily ,OCR
-Rokt,11/21/21,9,Emily ,OCR
-Rokt,11/28/21,9,Emily ,OCR
-Rokt,12/5/21,18,Emily ,OCR
-Rokt,12/12/21,6,Emily ,OCR
-Rokt,12/19/21,10,Emily ,OCR
-Rokt,12/27/21,18,Emily ,OCR
-Rokt,1/2/22,0,Emily ,OCR
-Rokt,1/9/22,2,Emily ,OCR
-Rokt,1/16/22,24,Emily ,OCR
-Rokt,1/23/22,22,Emily ,OCR
-Rokt,1/30/22,20,Emily ,OCR
-Rokt,2/6/22,24,Emily ,OCR
-Rokt,2/13/22,24,Emily ,OCR
-Rokt,2/20/22,27,Emily ,OCR
-Rokt,2/27/22,10,Emily ,OCR
-Rokt,3/6/22,55,Emily ,OCR
-Rokt,3/13/22,44,Emily ,OCR
-Rokt,3/20/22,30,Emily ,OCR
-Rokt,3/28/22,34,Emily ,OCR
-Rokt,4/4/22,17,Emily ,OCR
-Rokt,4/11/22,19,Emily ,OCR
-Rokt,4/18/22,9,Emily ,OCR
-Rokt,4/25/22,17,Emily ,OCR
-Rokt,5/2/22,0,Emily ,OCR
-Rokt,5/9/22,48,Emily ,OCR
-Rokt,5/16/22,13,Emily ,OCR
-Rokt,5/23/22,36,Emily ,OCR
-Rokt,5/30/22,2,Emily ,OCR
-Rokt,6/6/22,18,Emily ,OCR
-Rokt,6/13/22,38,Emily ,OCR
-Rokt,6/21/22,60,Emily ,OCR
-Rokt,6/27/22,16,Emily ,OCR
-Rokt,7/4/22,10,Emily ,OCR
-Rokt,7/11/22,25,Emily ,OCR
-Rokt,7/18/22,23,Emily ,OCR
-Rokt,7/25/22,25,Emily ,OCR
-Rokt,8/1/22,9,Emily ,OCR
-Rokt,8/8/22,8,Emily ,OCR
-Rokt,8/15/22,22,Emily ,OCR
-Rokt,8/22/22,16,Emily ,OCR
-AVMed,10/31/21,0,Maddy,OCR
-AVMed,11/7/21,0,Maddy,OCR
-AVMed,11/14/21,0,Maddy,OCR
-AVMed,11/21/21,0,Maddy,OCR
-AVMed,11/28/21,0,Maddy,OCR
-AVMed,12/5/21,0,Maddy,OCR
-AVMed,12/12/21,0,Maddy,OCR
-AVMed,12/19/21,0,Maddy,OCR
-AVMed,12/27/21,0,Maddy,OCR
-AVMed,1/2/22,0,Maddy,OCR
-AVMed,1/9/22,0,Maddy,OCR
-AVMed,1/16/22,0,Maddy,OCR
-AVMed,1/23/22,0,Maddy,OCR
-AVMed,1/30/22,0,Maddy,OCR
-AVMed,2/6/22,0,Maddy,OCR
-AVMed,2/13/22,0,Maddy,OCR
-AVMed,2/20/22,0,Maddy,OCR
-AVMed,2/27/22,0,Maddy,OCR
-AVMed,3/6/22,0,Maddy,OCR
-AVMed,3/13/22,0,Maddy,OCR
-AVMed,3/20/22,0,Maddy,OCR
-AVMed,3/28/22,211,Maddy,OCR
-AVMed,4/4/22,0,Maddy,OCR
-AVMed,4/11/22,0,Maddy,OCR
-AVMed,4/18/22,0,Maddy,OCR
-AVMed,4/25/22,0,Maddy,OCR
-AVMed,5/2/22,0,Maddy,OCR
-AVMed,5/9/22,0,Maddy,OCR
-AVMed,5/16/22,0,Maddy,OCR
-AVMed,5/23/22,17,Maddy,OCR
-AVMed,5/30/22,0,Maddy,OCR
-AVMed,6/6/22,0,Maddy,OCR
-AVMed,6/13/22,0,Maddy,OCR
-AVMed,6/21/22,0,Maddy,OCR
-AVMed,6/27/22,0,Maddy,OCR
-AVMed,7/4/22,0,Maddy,OCR
-AVMed,7/11/22,1,Maddy,OCR
-AVMed,7/18/22,6,Maddy,OCR
-AVMed,7/25/22,1,Maddy,OCR
-AVMed,8/1/22,1,Maddy,OCR
-AVMed,8/8/22,0,Maddy,OCR
-AVMed,8/15/22,0,Maddy,OCR
-AVMed,8/22/22,1,Maddy,OCR
-AVMed,8/29/22,0,Maddy,OCR
-Ceros,10/31/21,0,Maddy,OCR
-Ceros,11/7/21,0,Maddy,OCR
-Ceros,11/14/21,0,Maddy,OCR
-Ceros,11/21/21,0,Maddy,OCR
-Ceros,11/28/21,0,Maddy,OCR
-Ceros,12/5/21,0,Maddy,OCR
-Ceros,12/12/21,0,Maddy,OCR
-Ceros,12/19/21,0,Maddy,OCR
-Ceros,12/27/21,0,Maddy,OCR
-Ceros,1/2/22,163,Maddy,OCR
-Ceros,1/9/22,0,Maddy,OCR
-Ceros,1/16/22,3,Maddy,OCR
-Ceros,1/23/22,203,Maddy,OCR
-Ceros,1/30/22,2,Maddy,OCR
-Ceros,2/6/22,95,Maddy,OCR
-Ceros,2/13/22,227,Maddy,OCR
-Ceros,2/20/22,0,Maddy,OCR
-Ceros,2/27/22,0,Maddy,OCR
-Ceros,3/6/22,1,Maddy,OCR
-Ceros,3/13/22,0,Maddy,OCR
-Ceros,3/20/22,400,Maddy,OCR
-Ceros,3/28/22,2,Maddy,OCR
-Ceros,4/4/22,0,Maddy,OCR
-Ceros,4/11/22,1,Maddy,OCR
-Ceros,4/18/22,1,Maddy,OCR
-Ceros,4/25/22,0,Maddy,OCR
-Ceros,5/2/22,0,Maddy,OCR
-Ceros,5/9/22,0,Maddy,OCR
-Ceros,5/16/22,0,Maddy,OCR
-Ceros,5/23/22,0,Maddy,OCR
-Ceros,5/30/22,0,Maddy,OCR
-Ceros,6/6/22,0,Maddy,OCR
-Ceros,6/13/22,0,Maddy,OCR
-Ceros,6/21/22,0,Maddy,OCR
-Ceros,6/27/22,0,Maddy,OCR
-Ceros,7/4/22,0,Maddy,OCR
-Ceros,7/11/22,0,Maddy,OCR
-Ceros,7/18/22,1,Maddy,OCR
-Ceros,7/25/22,0,Maddy,OCR
-Ceros,8/1/22,0,Maddy,OCR
-Ceros,8/8/22,0,Maddy,OCR
-Ceros,8/15/22,110,Maddy,OCR
-Ceros,8/22/22,180,Maddy,OCR
-Ceros,8/29/22,0,Maddy,OCR
-Guideline,10/31/21,8,Maddy,OCR
-Guideline,11/7/21,8,Maddy,OCR
-Guideline,11/14/21,29,Maddy,OCR
-Guideline,11/21/21,21,Maddy,OCR
-Guideline,11/28/21,20,Maddy,OCR
-Guideline,12/5/21,26,Maddy,OCR
-Guideline,12/12/21,16,Maddy,OCR
-Guideline,12/19/21,16,Maddy,OCR
-Guideline,12/27/21,29,Maddy,OCR
-Guideline,1/2/22,12,Maddy,OCR
-Guideline,1/9/22,14,Maddy,OCR
-Guideline,1/16/22,16,Maddy,OCR
-Guideline,1/23/22,16,Maddy,OCR
-Guideline,1/30/22,25,Maddy,OCR
-Guideline,2/6/22,26,Maddy,OCR
-Guideline,2/13/22,23,Maddy,OCR
-Guideline,2/20/22,37,Maddy,OCR
-Guideline,2/27/22,30,Maddy,OCR
-Guideline,3/6/22,0,Maddy,OCR
-Guideline,3/13/22,0,Maddy,OCR
-Guideline,3/20/22,0,Maddy,OCR
-Guideline,3/28/22,0,Maddy,OCR
-Guideline,4/4/22,0,Maddy,OCR
-Guideline,4/11/22,0,Maddy,OCR
-Guideline,4/18/22,217,Maddy,OCR
-Guideline,4/25/22,12,Maddy,OCR
-Guideline,5/2/22,26,Maddy,OCR
-Guideline,5/9/22,17,Maddy,OCR
-Guideline,5/16/22,24,Maddy,OCR
-Guideline,5/23/22,16,Maddy,OCR
-Guideline,5/30/22,14,Maddy,OCR
-Guideline,6/6/22,25,Maddy,OCR
-Guideline,6/13/22,21,Maddy,OCR
-Guideline,6/21/22,28,Maddy,OCR
-Guideline,6/27/22,33,Maddy,OCR
-Guideline,7/4/22,17,Maddy,OCR
-Guideline,7/11/22,17,Maddy,OCR
-Guideline,7/18/22,21,Maddy,OCR
-Guideline,7/25/22,24,Maddy,OCR
-Guideline,8/1/22,0,Maddy,OCR
-Guideline,8/8/22,48,Maddy,OCR
-Guideline,8/15/22,12,Maddy,OCR
-Guideline,8/22/22,26,Maddy,OCR
-Guideline,8/29/22,35,Maddy,OCR
-CyberArk,8/29/22,24,Emily ,OCR
-TripleLift,8/29/22,27,Tanya,OCR
-Accelya,8/29/22,10,Mat,OCR
-Rokt,8/29/22,9,Emily ,OCR
-CyberArk,9/6/22,84,Emily ,OCR
-TripleLift,9/6/22,48,Tanya,OCR
-Accelya,9/6/22,4,Mat,OCR
-Rokt,9/6/22,30,Emily ,OCR
+﻿Company,Date,Agreements,User,Task,
+TripleLift,10/31/21,39,Emily ,OCR,
+TripleLift,11/7/21,19,Emily ,OCR,
+TripleLift,11/14/21,18,Emily ,OCR,
+TripleLift,11/21/21,24,Emily ,OCR,
+TripleLift,11/28/21,11,Emily ,OCR,
+TripleLift,12/5/21,20,Emily ,OCR,
+TripleLift,12/12/21,21,Emily ,OCR,
+TripleLift,12/19/21,27,Emily ,OCR,
+TripleLift,12/27/21,11,Emily ,OCR,
+TripleLift,1/2/22,5,Emily ,OCR,
+TripleLift,1/9/22,24,Emily ,OCR,
+TripleLift,1/16/22,17,Emily ,OCR,
+TripleLift,1/23/22,19,Emily ,OCR,
+TripleLift,1/30/22,20,Emily ,OCR,
+TripleLift,2/6/22,18,Emily ,OCR,
+TripleLift,2/13/22,19,Emily ,OCR,
+TripleLift,2/20/22,18,Emily ,OCR,
+TripleLift,2/27/22,15,Emily ,OCR,
+TripleLift,3/6/22,14,Emily ,OCR,
+TripleLift,3/13/22,16,Emily ,OCR,
+TripleLift,3/20/22,20,Emily ,OCR,
+TripleLift,3/28/22,179,Emily ,OCR,
+TripleLift,4/4/22,26,Emily ,OCR,
+TripleLift,4/11/22,13,Emily ,OCR,
+TripleLift,4/18/22,18,Emily ,OCR,
+TripleLift,4/25/22,21,Emily ,OCR,
+TripleLift,5/2/22,22,Emily ,OCR,
+TripleLift,5/9/22,24,Emily ,OCR,
+TripleLift,5/16/22,46,Emily ,OCR,
+TripleLift,5/23/22,17,Emily ,OCR,
+TripleLift,5/30/22,18,Emily ,OCR,
+TripleLift,6/6/22,13,Emily ,OCR,
+TripleLift,6/13/22,24,Emily ,OCR,
+TripleLift,6/21/22,37,Emily ,OCR,
+TripleLift,6/27/22,17,Emily ,OCR,
+TripleLift,7/4/22,14,Emily ,OCR,
+TripleLift,7/11/22,18,Emily ,OCR,
+TripleLift,7/18/22,17,Emily ,OCR,
+TripleLift,7/25/22,6,Emily ,OCR,
+TripleLift,8/1/22,26,Emily ,OCR,
+TripleLift,8/8/22,10,Emily ,OCR,
+TripleLift,8/15/22,140,Emily ,OCR,
+TripleLift,8/22/22,47,Emily ,OCR,
+CyberArk,10/31/21,306,Emily ,OCR,
+CyberArk,11/7/21,41,Emily ,OCR,
+CyberArk,11/14/21,69,Emily ,OCR,
+CyberArk,11/21/21,40,Emily ,OCR,
+CyberArk,11/28/21,33,Emily ,OCR,
+CyberArk,12/5/21,38,Emily ,OCR,
+CyberArk,12/12/21,123,Emily ,OCR,
+CyberArk,12/19/21,70,Emily ,OCR,
+CyberArk,12/27/21,119,Emily ,OCR,
+CyberArk,1/2/22,31,Emily ,OCR,
+CyberArk,1/9/22,18,Emily ,OCR,
+CyberArk,1/16/22,40,Emily ,OCR,
+CyberArk,1/23/22,27,Emily ,OCR,
+CyberArk,1/30/22,31,Emily ,OCR,
+CyberArk,2/6/22,52,Emily ,OCR,
+CyberArk,2/13/22,33,Emily ,OCR,
+CyberArk,2/20/22,43,Emily ,OCR,
+CyberArk,2/27/22,30,Emily ,OCR,
+CyberArk,3/6/22,38,Emily ,OCR,
+CyberArk,3/13/22,39,Emily ,OCR,
+CyberArk,3/20/22,34,Emily ,OCR,
+CyberArk,3/28/22,74,Emily ,OCR,
+CyberArk,4/4/22,75,Emily ,OCR,
+CyberArk,4/11/22,69,Emily ,OCR,
+CyberArk,4/18/22,30,Emily ,OCR,
+CyberArk,4/25/22,80,Emily ,OCR,
+CyberArk,5/2/22,42,Emily ,OCR,
+CyberArk,5/9/22,71,Emily ,OCR,
+CyberArk,5/16/22,137,Emily ,OCR,
+CyberArk,5/23/22,42,Emily ,OCR,
+CyberArk,5/30/22,44,Emily ,OCR,
+CyberArk,6/6/22,53,Emily ,OCR,
+CyberArk,6/13/22,43,Emily ,OCR,
+CyberArk,6/21/22,12,Emily ,OCR,
+CyberArk,6/27/22,55,Emily ,OCR,
+CyberArk,7/4/22,50,Emily ,OCR,
+CyberArk,7/11/22,58,Emily ,OCR,
+CyberArk,7/18/22,36,Emily ,OCR,
+CyberArk,7/25/22,40,Emily ,OCR,
+CyberArk,8/1/22,76,Emily ,OCR,
+CyberArk,8/8/22,32,Emily ,OCR,
+CyberArk,8/15/22,29,Emily ,OCR,
+CyberArk,8/22/22,29,Emily ,OCR,
+Accelya,10/31/21,0,Emily ,OCR,
+Accelya,11/7/21,0,Emily ,OCR,
+Accelya,11/14/21,0,Emily ,OCR,
+Accelya,11/21/21,449,Emily ,OCR,
+Accelya,11/28/21,0,Emily ,OCR,
+Accelya,12/5/21,0,Emily ,OCR,
+Accelya,12/12/21,0,Emily ,OCR,
+Accelya,12/19/21,3,Emily ,OCR,
+Accelya,12/27/21,2,Emily ,OCR,
+Accelya,1/2/22,2,Emily ,OCR,
+Accelya,1/9/22,18,Emily ,OCR,
+Accelya,1/16/22,0,Emily ,OCR,
+Accelya,1/23/22,0,Emily ,OCR,
+Accelya,1/30/22,2,Emily ,OCR,
+Accelya,2/6/22,0,Emily ,OCR,
+Accelya,2/13/22,4,Emily ,OCR,
+Accelya,2/20/22,7,Emily ,OCR,
+Accelya,2/27/22,2,Emily ,OCR,
+Accelya,3/6/22,18,Emily ,OCR,
+Accelya,3/13/22,2,Emily ,OCR,
+Accelya,3/20/22,3,Emily ,OCR,
+Accelya,3/28/22,1,Emily ,OCR,
+Accelya,4/4/22,3,Emily ,OCR,
+Accelya,4/11/22,4,Emily ,OCR,
+Accelya,4/18/22,1,Emily ,OCR,
+Accelya,4/25/22,0,Emily ,OCR,
+Accelya,5/2/22,1,Emily ,OCR,
+Accelya,5/9/22,8,Emily ,OCR,
+Accelya,5/16/22,6,Emily ,OCR,
+Accelya,5/23/22,5,Emily ,OCR,
+Accelya,5/30/22,12,Emily ,OCR,
+Accelya,6/6/22,26,Emily ,OCR,
+Accelya,6/13/22,5,Emily ,OCR,
+Accelya,6/21/22,17,Emily ,OCR,
+Accelya,6/27/22,2,Emily ,OCR,
+Accelya,7/4/22,165,Emily ,OCR,
+Accelya,7/11/22,1,Emily ,OCR,
+Accelya,7/18/22,10,Emily ,OCR,
+Accelya,7/25/22,161,Emily ,OCR,
+Accelya,8/1/22,113,Emily ,OCR,
+Accelya,8/8/22,17,Emily ,OCR,
+Accelya,8/15/22,4,Emily ,OCR,
+Accelya,8/22/22,3,Emily ,OCR,
+Rokt,10/31/21,20,Emily ,OCR,
+Rokt,11/7/21,13,Emily ,OCR,
+Rokt,11/14/21,8,Emily ,OCR,
+Rokt,11/21/21,9,Emily ,OCR,
+Rokt,11/28/21,9,Emily ,OCR,
+Rokt,12/5/21,18,Emily ,OCR,
+Rokt,12/12/21,6,Emily ,OCR,
+Rokt,12/19/21,10,Emily ,OCR,
+Rokt,12/27/21,18,Emily ,OCR,
+Rokt,1/2/22,0,Emily ,OCR,
+Rokt,1/9/22,2,Emily ,OCR,
+Rokt,1/16/22,24,Emily ,OCR,
+Rokt,1/23/22,22,Emily ,OCR,
+Rokt,1/30/22,20,Emily ,OCR,
+Rokt,2/6/22,24,Emily ,OCR,
+Rokt,2/13/22,24,Emily ,OCR,
+Rokt,2/20/22,27,Emily ,OCR,
+Rokt,2/27/22,10,Emily ,OCR,
+Rokt,3/6/22,55,Emily ,OCR,
+Rokt,3/13/22,44,Emily ,OCR,
+Rokt,3/20/22,30,Emily ,OCR,
+Rokt,3/28/22,34,Emily ,OCR,
+Rokt,4/4/22,17,Emily ,OCR,
+Rokt,4/11/22,19,Emily ,OCR,
+Rokt,4/18/22,9,Emily ,OCR,
+Rokt,4/25/22,17,Emily ,OCR,
+Rokt,5/2/22,0,Emily ,OCR,
+Rokt,5/9/22,48,Emily ,OCR,
+Rokt,5/16/22,13,Emily ,OCR,
+Rokt,5/23/22,36,Emily ,OCR,
+Rokt,5/30/22,2,Emily ,OCR,
+Rokt,6/6/22,18,Emily ,OCR,
+Rokt,6/13/22,38,Emily ,OCR,
+Rokt,6/21/22,60,Emily ,OCR,
+Rokt,6/27/22,16,Emily ,OCR,
+Rokt,7/4/22,10,Emily ,OCR,
+Rokt,7/11/22,25,Emily ,OCR,
+Rokt,7/18/22,23,Emily ,OCR,
+Rokt,7/25/22,25,Emily ,OCR,
+Rokt,8/1/22,9,Emily ,OCR,
+Rokt,8/8/22,8,Emily ,OCR,
+Rokt,8/15/22,22,Emily ,OCR,
+Rokt,8/22/22,16,Emily ,OCR,
+AVMed,10/31/21,0,Maddy,OCR,
+AVMed,11/7/21,0,Maddy,OCR,
+AVMed,11/14/21,0,Maddy,OCR,
+AVMed,11/21/21,0,Maddy,OCR,
+AVMed,11/28/21,0,Maddy,OCR,
+AVMed,12/5/21,0,Maddy,OCR,
+AVMed,12/12/21,0,Maddy,OCR,
+AVMed,12/19/21,0,Maddy,OCR,
+AVMed,12/27/21,0,Maddy,OCR,
+AVMed,1/2/22,0,Maddy,OCR,
+AVMed,1/9/22,0,Maddy,OCR,
+AVMed,1/16/22,0,Maddy,OCR,
+AVMed,1/23/22,0,Maddy,OCR,
+AVMed,1/30/22,0,Maddy,OCR,
+AVMed,2/6/22,0,Maddy,OCR,
+AVMed,2/13/22,0,Maddy,OCR,
+AVMed,2/20/22,0,Maddy,OCR,
+AVMed,2/27/22,0,Maddy,OCR,
+AVMed,3/6/22,0,Maddy,OCR,
+AVMed,3/13/22,0,Maddy,OCR,
+AVMed,3/20/22,0,Maddy,OCR,
+AVMed,3/28/22,211,Maddy,OCR,
+AVMed,4/4/22,0,Maddy,OCR,
+AVMed,4/11/22,0,Maddy,OCR,
+AVMed,4/18/22,0,Maddy,OCR,
+AVMed,4/25/22,0,Maddy,OCR,
+AVMed,5/2/22,0,Maddy,OCR,
+AVMed,5/9/22,0,Maddy,OCR,
+AVMed,5/16/22,0,Maddy,OCR,
+AVMed,5/23/22,17,Maddy,OCR,
+AVMed,5/30/22,0,Maddy,OCR,
+AVMed,6/6/22,0,Maddy,OCR,
+AVMed,6/13/22,0,Maddy,OCR,
+AVMed,6/21/22,0,Maddy,OCR,
+AVMed,6/27/22,0,Maddy,OCR,
+AVMed,7/4/22,0,Maddy,OCR,
+AVMed,7/11/22,1,Maddy,OCR,
+AVMed,7/18/22,6,Maddy,OCR,
+AVMed,7/25/22,1,Maddy,OCR,
+AVMed,8/1/22,1,Maddy,OCR,
+AVMed,8/8/22,0,Maddy,OCR,
+AVMed,8/15/22,0,Maddy,OCR,
+AVMed,8/22/22,1,Maddy,OCR,
+AVMed,8/29/22,0,Maddy,OCR,
+Ceros,10/31/21,0,Maddy,OCR,
+Ceros,11/7/21,0,Maddy,OCR,
+Ceros,11/14/21,0,Maddy,OCR,
+Ceros,11/21/21,0,Maddy,OCR,
+Ceros,11/28/21,0,Maddy,OCR,
+Ceros,12/5/21,0,Maddy,OCR,
+Ceros,12/12/21,0,Maddy,OCR,
+Ceros,12/19/21,0,Maddy,OCR,
+Ceros,12/27/21,0,Maddy,OCR,
+Ceros,1/2/22,163,Maddy,OCR,
+Ceros,1/9/22,0,Maddy,OCR,
+Ceros,1/16/22,3,Maddy,OCR,
+Ceros,1/23/22,203,Maddy,OCR,
+Ceros,1/30/22,2,Maddy,OCR,
+Ceros,2/6/22,95,Maddy,OCR,
+Ceros,2/13/22,227,Maddy,OCR,
+Ceros,2/20/22,0,Maddy,OCR,
+Ceros,2/27/22,0,Maddy,OCR,
+Ceros,3/6/22,1,Maddy,OCR,
+Ceros,3/13/22,0,Maddy,OCR,
+Ceros,3/20/22,400,Maddy,OCR,
+Ceros,3/28/22,2,Maddy,OCR,
+Ceros,4/4/22,0,Maddy,OCR,
+Ceros,4/11/22,1,Maddy,OCR,
+Ceros,4/18/22,1,Maddy,OCR,
+Ceros,4/25/22,0,Maddy,OCR,
+Ceros,5/2/22,0,Maddy,OCR,
+Ceros,5/9/22,0,Maddy,OCR,
+Ceros,5/16/22,0,Maddy,OCR,
+Ceros,5/23/22,0,Maddy,OCR,
+Ceros,5/30/22,0,Maddy,OCR,
+Ceros,6/6/22,0,Maddy,OCR,
+Ceros,6/13/22,0,Maddy,OCR,
+Ceros,6/21/22,0,Maddy,OCR,
+Ceros,6/27/22,0,Maddy,OCR,
+Ceros,7/4/22,0,Maddy,OCR,
+Ceros,7/11/22,0,Maddy,OCR,
+Ceros,7/18/22,1,Maddy,OCR,
+Ceros,7/25/22,0,Maddy,OCR,
+Ceros,8/1/22,0,Maddy,OCR,
+Ceros,8/8/22,0,Maddy,OCR,
+Ceros,8/15/22,110,Maddy,OCR,
+Ceros,8/22/22,180,Maddy,OCR,
+Ceros,8/29/22,0,Maddy,OCR,
+Guideline,10/31/21,8,Maddy,OCR,
+Guideline,11/7/21,8,Maddy,OCR,
+Guideline,11/14/21,29,Maddy,OCR,
+Guideline,11/21/21,21,Maddy,OCR,
+Guideline,11/28/21,20,Maddy,OCR,
+Guideline,12/5/21,26,Maddy,OCR,
+Guideline,12/12/21,16,Maddy,OCR,
+Guideline,12/19/21,16,Maddy,OCR,
+Guideline,12/27/21,29,Maddy,OCR,
+Guideline,1/2/22,12,Maddy,OCR,
+Guideline,1/9/22,14,Maddy,OCR,
+Guideline,1/16/22,16,Maddy,OCR,
+Guideline,1/23/22,16,Maddy,OCR,
+Guideline,1/30/22,25,Maddy,OCR,
+Guideline,2/6/22,26,Maddy,OCR,
+Guideline,2/13/22,23,Maddy,OCR,
+Guideline,2/20/22,37,Maddy,OCR,
+Guideline,2/27/22,30,Maddy,OCR,
+Guideline,3/6/22,0,Maddy,OCR,
+Guideline,3/13/22,0,Maddy,OCR,
+Guideline,3/20/22,0,Maddy,OCR,
+Guideline,3/28/22,0,Maddy,OCR,
+Guideline,4/4/22,0,Maddy,OCR,
+Guideline,4/11/22,0,Maddy,OCR,
+Guideline,4/18/22,217,Maddy,OCR,
+Guideline,4/25/22,12,Maddy,OCR,
+Guideline,5/2/22,26,Maddy,OCR,
+Guideline,5/9/22,17,Maddy,OCR,
+Guideline,5/16/22,24,Maddy,OCR,
+Guideline,5/23/22,16,Maddy,OCR,
+Guideline,5/30/22,14,Maddy,OCR,
+Guideline,6/6/22,25,Maddy,OCR,
+Guideline,6/13/22,21,Maddy,OCR,
+Guideline,6/21/22,28,Maddy,OCR,
+Guideline,6/27/22,33,Maddy,OCR,
+Guideline,7/4/22,17,Maddy,OCR,
+Guideline,7/11/22,17,Maddy,OCR,
+Guideline,7/18/22,21,Maddy,OCR,
+Guideline,7/25/22,24,Maddy,OCR,
+Guideline,8/1/22,0,Maddy,OCR,
+Guideline,8/8/22,48,Maddy,OCR,
+Guideline,8/15/22,12,Maddy,OCR,
+Guideline,8/22/22,26,Maddy,OCR,
+Guideline,8/29/22,35,Maddy,OCR,
+CyberArk,8/29/22,24,Emily ,OCR,
+TripleLift,8/29/22,27,Tanya,OCR,
+Accelya,8/29/22,10,Mat,OCR,
+Rokt,8/29/22,9,Emily ,OCR,
+CyberArk,9/6/22,84,Emily ,OCR,
+TripleLift,9/6/22,48,Tanya,OCR,
+Accelya,9/6/22,4,Mat,OCR,
+Rokt,9/6/22,30,Emily ,OCR,
+AVMed,9/6/22,9,Maddy,OCR,
+Ceros ,9/6/22,0,Maddy,OCR,
+Guideline,9/6/22,32,Maddy,OCR,
+Gsquared,9/6/22,42,Tanya,OCR,
+TripleLift,9/12/22,22,Tanya,OCR,
+CyberArk,9/12/22,52,Emily ,OCR,
+Accelya,9/12/22,5,Mat,OCR,
+Rokt,9/12/22,24,Emily ,OCR,
+AVMed,9/12/22,2,Maddy,OCR,
+Ceros ,9/12/22,0,Maddy,OCR,
+Guideline,9/12/22,25,Maddy,OCR,
+Gsquared,9/12/22,19,Tanya,OCR,

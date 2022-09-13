@@ -103,18 +103,18 @@ ggsave("Task_Q3_2022.png", plot = last_plot(), height = 10, width = 12, units = 
 
 ######months 
 
-SOCR_work_by_Task_Type_Aug <- subset(SOCR_work_by_Task_Type, SOCR_work_by_Task_Type$Date> "2022-08-01" & SOCR_work_by_Task_Type$Date < "2022-08-31")
+SOCR_work_by_Task_Type_Sept <- subset(SOCR_work_by_Task_Type, SOCR_work_by_Task_Type$Date> "2022-09-01" & SOCR_work_by_Task_Type$Date < "2022-09-30")
 
-SOCR_work_by_Task_Type_Aug22 <- ggplot(SOCR_work_by_Task_Type_Aug, aes(x= Date, y=Agreements))+
+SOCR_work_by_Task_Type_Spet22 <- ggplot(SOCR_work_by_Task_Type_Sept, aes(x= Date, y=Agreements))+
   geom_line()+
-  ggtitle("August 2022")+
+  ggtitle("September 2022")+
   geom_point(size=4)+
   aes(color = Task)+ 
   #ylim(0,200)+
   theme_bw() +
   facet_grid('User')
-SOCR_work_by_Task_Type_Aug22
-ggsave("Task_Aug_22_Tasks2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+SOCR_work_by_Task_Type_Spet22
+ggsave("Task_Sept_22_Tasks2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 SOSOCR_work_pp_no_task_aug <- subset(SOCR_work_by_Person, SOCR_work_by_Person$Date> "2022-08-01" & SOCR_work_by_Person$Date < "2022-08-31")
@@ -218,16 +218,35 @@ timeline_OCR_Q2 <- ggplot(SOCRtrack_Nas_Q2, aes(x= Date, y=Agreements))+
 timeline_OCR_Q2
 ggsave("Task_OCR_Q2_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
-SOCRSVs_noNA_Q3<- subset(SOCRSVs_noNA, SOCRSVs_noNA$Date> "2022-07-01" & SOCRSVs_noNA$Date < "2022-09-30")
+SOCRtrack_Nas_Q3<- subset(SOCRtrack_Nas, SOCRtrack_Nas$Date> "2022-07-01" & SOCRtrack_Nas$Date < "2022-09-30")
 
-timeline_SV_Q3 <- ggplot(SOCRSVs_noNA_Q3, aes(x= Date, y=Agreements))+
+timeline_OCR_Q3 <- ggplot(SOCRtrack_Nas_Q3, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
-  ggtitle("Smart Value and Party Fixes Q3 2022- ylimit")+
+  ggtitle("OCR Fixes Q3 2022- ylimit")+
   aes(color = Company)+ 
-  ylim(0,200)+
+  #ylim(0,200)+
   theme_bw() +
   facet_grid('User')
-timeline_SV_Q3
-ggsave("Task_SVs_Q3_ylim_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+timeline_OCR_Q3
+ggsave("Task_OCR_Q3_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+##### monthlies 
+
+SOCRtrack_Nas_Jan<- subset(SOCRtrack_Nas, SOCRtrack_Nas$Date> "2022-01-01" & SOCRtrack_Nas$Date < "2022-01-31")
+
+timeline_OCR_Jan <- ggplot(SOCRtrack_Nas_Jan, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  ggtitle("OCR Fixes January")+
+  aes(color = Company)+ 
+ # ylim(0,100)+
+  theme_bw() +
+  facet_grid('User')
+timeline_OCR_Jan
+ggsave("OCR_Jan_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
+
+
 

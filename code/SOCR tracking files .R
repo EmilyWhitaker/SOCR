@@ -123,7 +123,7 @@ timeline2 <- ggplot(SOCR_work_pp_ME, aes(x= Date, y=Agreements))+
   facet_grid('User')
 timeline2
 
-#ggsave("MaddyandEmilyOCR.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("MaddyandEmilyOCR.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 timeline_all_OCR <- ggplot(SOCR_work_pp_MMTE, aes(x= Date, y=Agreements))+
@@ -146,5 +146,5 @@ timeline_all_OCR <- ggplot(SOCR_work_pp_MMTE, aes(x= Date, y=Agreements))+
   facet_grid('User')
 timeline_all_OCR
 
-#ggsave("AllOCR.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("AllOCR.png", plot = last_plot(), height = 10, width = 12, units = "in")
 

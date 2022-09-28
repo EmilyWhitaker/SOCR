@@ -23,6 +23,7 @@ Jira_df$Created <- mdy(Jira_df$Created)
 Jira_df$Updated <- mdy(Jira_df$Updated)
 Jira_df$Month_Created <- as.numeric(format(Jira_df$Created,'%m'))
 Jira_df$Month_Updated <- as.numeric(format(Jira_df$Updated,'%m'))
+Jira_df$resolution_time <- (Jira_df$Updated-Jira_df$Created)
 
 
 Creation_Date_files <-  ggplot(data = Jira_df, aes(x = Month_Created)) +
@@ -41,13 +42,17 @@ Updated_Date_files
 ggsave("UpdatedDateofTicket.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
+SOCR_resultionTime<- ggplot(Jira_df, aes(x= Created, y=resolution_time))+
+  geom_line()+
+  #ggtitle("Quarter 2 2022")+
+  geom_point(size=4)+
+  aes(color = Issue_Type)+ 
+  #ylim(0,200)+
+  theme_bw() +
+  facet_grid('Assignee')
+SOCR_resultionTime
+ggsave("SOCR_resultionTime.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
-
-
-
-bar chart for the tickets 
-
-ill do a dumb pie 
 
 
 

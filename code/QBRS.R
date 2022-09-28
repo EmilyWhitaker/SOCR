@@ -28,6 +28,9 @@ ggsave("Task_Q1__Tasks2022.png", plot = last_plot(), height = 10, width = 12, un
 
 SOSOCR_work_pp_no_task_Q1 <- subset(SOCR_work_by_Person, SOCR_work_by_Person$Date> "2022-01-01" & SOCR_work_by_Person$Date < "2022-03-31")
 
+#write.csv(SOSOCR_work_pp_no_task_Q1,"SOSOCR_work_pp_no_task_Q1.csv", row.names = FALSE)
+
+
 SOCR_AllTeam_Totals_Q1 <- ggplot(SOSOCR_work_pp_no_task_Q1, aes(x= Date, y=Agreements))+
   geom_line()+
   ggtitle("Quarter 1 2022")+
@@ -42,6 +45,9 @@ ggsave("Task_Q1_2022.png", plot = last_plot(), height = 10, width = 12, units = 
 ####### Q2 2022
 
 SOCR_work_by_Task_Type_Q2 <- subset(SOCR_work_by_Task_Type, SOCR_work_by_Task_Type$Date> "2022-04-01" & SOCR_work_by_Task_Type$Date < "2022-06-31")
+#write.csv(SOCR_work_by_Task_Type_Q2,"SOCR_work_by_Task_Type_Q2.csv", row.names = FALSE)
+
+
 
 SOCR_AllTeam_Totals_Task_Q2 <- ggplot(SOCR_work_by_Task_Type_Q2, aes(x= Date, y=Agreements))+
   geom_line()+
@@ -74,7 +80,8 @@ ggsave("Task_Q2_2022.png", plot = last_plot(), height = 10, width = 12, units = 
 
 SOCR_work_by_Task_Type_Q3 <- subset(SOCR_work_by_Task_Type, SOCR_work_by_Task_Type$Date> "2022-07-01" & SOCR_work_by_Task_Type$Date < "2022-09-30")
 
-SOCR_work_by_Task_Type_Q3 <- ggplot(SOCR_work_by_Task_Type_Q3, aes(x= Date, y=Agreements))+
+
+SOCR_work_by_Task_Type_Q3_graph <- ggplot(SOCR_work_by_Task_Type_Q3, aes(x= Date, y=Agreements))+
   geom_line()+
   ggtitle("Quarter 3 2022")+
   geom_point(size=4)+
@@ -82,11 +89,14 @@ SOCR_work_by_Task_Type_Q3 <- ggplot(SOCR_work_by_Task_Type_Q3, aes(x= Date, y=Ag
   #ylim(0,200)+
   theme_bw() +
   facet_grid('User')
-SOCR_work_by_Task_Type_Q3
+SOCR_work_by_Task_Type_Q3_graph
 ggsave("Task_Q3_Tasks2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 SOSOCR_work_pp_no_task_Q3 <- subset(SOCR_work_by_Person, SOCR_work_by_Person$Date> "2022-07-01" & SOCR_work_by_Person$Date < "2022-09-30")
+
+#write.csv(SOSOCR_work_pp_no_task_Q3,"SOSOCR_work_pp_no_task_Q3.csv", row.names = FALSE)
+
 
 #SOSOCR_work_pp_no_task_Q2_noNA <- na.omit(SOSOCR_work_pp_no_task_Q2)
 
@@ -95,11 +105,11 @@ SOCR_AllTeam_Totals_Q3 <- ggplot(SOSOCR_work_pp_no_task_Q3, aes(x= Date, y=Agree
   ggtitle("Quarter 3 2022")+
   geom_point(size=4)+
   # aes(color = Task)+ 
-  #ylim(0,200)+
+  ylim(0,700)+
   theme_bw() +
   facet_grid('User')
 SOCR_AllTeam_Totals_Q3
-ggsave("Task_Q3_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("Task_Q3_2022_ylim.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 ######months 
 
@@ -110,11 +120,11 @@ SOCR_work_by_Task_Type_Spet22 <- ggplot(SOCR_work_by_Task_Type_Sept, aes(x= Date
   ggtitle("September 2022")+
   geom_point(size=4)+
   aes(color = Task)+ 
-  #ylim(0,200)+
+  ylim(0,200)+
   theme_bw() +
   facet_grid('User')
 SOCR_work_by_Task_Type_Spet22
-ggsave("Task_Sept_22_Tasks2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("Task_Sept_22_Tasks2022_ylim.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 SOSOCR_work_pp_no_task_aug <- subset(SOCR_work_by_Person, SOCR_work_by_Person$Date> "2022-08-01" & SOCR_work_by_Person$Date < "2022-08-31")

@@ -40,7 +40,7 @@ timeline <- ggplot(SOCRtrack_Nas, aes(x= Date, y=Agreements))+
   facet_grid('User')
   
 timeline
-#ggsave("MMTE.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("MMTE.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 #totals per week per person
 

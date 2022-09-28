@@ -1,13 +1,13 @@
 # Load required packages
 library(FSA); library(dplyr);library(magrittr);library(tidyr) # data management
 library(mgcv);library(nlme); library(lme4) # modeling
-library(viridisLite); library(gridExtra); library(ggplot2) # data viz
+library(viridisLite); library(gridExtra); 
+library(ggplot2) # data viz
 library(lubridate) # dealing with dates
 library(ggpubr); library(fuzzyjoin)
 library(pastecs)
 library('unikn')
 library(tidyverse)
-library(lubridate)
 library(patchwork)
 library(scales)
 
@@ -24,7 +24,7 @@ timeline_SV <- ggplot(SOCRSVs_noNA, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
   aes(color = Company)+ 
- # ylim(0,200)+
+  ylim(0,200)+
   geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
@@ -47,7 +47,7 @@ timeline_SV_limit <- ggplot(SOCRSVs_noNA, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
   aes(color = Company)+ 
-  ylim(0,300)+
+  ylim(0,200)+
   geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
@@ -63,7 +63,7 @@ timeline_SV_limit <- ggplot(SOCRSVs_noNA, aes(x= Date, y=Agreements))+
   theme_bw() +
   facet_grid('User')
 timeline_SV_limit
-ggsave("Romil_Nivi_companies_alltime_limit.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("Romil_Nivi_companies_alltime_ylim.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 

@@ -52,7 +52,7 @@ SOCR_work_by_Task_Type_Agg<-SOCR_work_by_Task_Type_Agg %>%
 SOCR_Totals_Task_time <- ggplot(SOCR_work_by_Task_Type_Agg, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
-  #ylim(0,200)+
+  ylim(0,700)+
   geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
@@ -69,7 +69,7 @@ SOCR_Totals_Task_time <- ggplot(SOCR_work_by_Task_Type_Agg, aes(x= Date, y=Agree
   facet_grid('Task')
 SOCR_Totals_Task_time
 
-ggsave("AllTaskType.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("AllTaskType-ylim.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 
@@ -81,7 +81,7 @@ SOCR_work_by_Person<- rbind (SOSOCR_work_pp_no_task, SOCR_SVTeam_Totals)
 SOCR_AllTeam_Totals_time <- ggplot(SOCR_work_by_Person, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
-  #ylim(0,200)+
+  ylim(0,700)+
   geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
@@ -99,5 +99,5 @@ SOCR_AllTeam_Totals_time <- ggplot(SOCR_work_by_Person, aes(x= Date, y=Agreement
 
 SOCR_AllTeam_Totals_time
 
-ggsave("All_members_totals.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("All_members_totals-ylim.png", plot = last_plot(), height = 10, width = 12, units = "in")
 

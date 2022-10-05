@@ -76,6 +76,57 @@ SOCR_AllTeam_Totals_Q2 <- ggplot(SOSOCR_work_pp_no_task_Q2_noNA, aes(x= Date, y=
 SOCR_AllTeam_Totals_Q2
 ggsave("Task_Q2_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
+
+
+SOCR_work_by_Task_Type_Agg_2 = read_csv('SOCR_work_by_Task_Type_Agg.csv')
+SOCR_work_by_Task_Type_Agg_2$Date=mdy(SOCR_work_by_Task_Type_Agg_2$Date)
+
+
+#SOCR_work_by_Task_Type_Agg$Date=ymd(SOCR_work_by_Task_Type_Agg$Date)
+#write.csv(SOCR_work_by_Task_Type_Agg,"SOCR_work_by_Task_Type_Agg.csv", row.names = FALSE)
+
+SOCR_work_by_Task_Type_Agg_Q2 <- subset(SOCR_work_by_Task_Type_Agg_2, SOCR_work_by_Task_Type_Agg_2$Date> "2022-04-01" & SOCR_work_by_Task_Type_Agg_2$Date < "2022-06-30")
+
+SOCR_Task_q2 <- ggplot(SOCR_work_by_Task_Type_Agg_Q2, aes(x= Date, y=Agreements, colour=Task))+
+  geom_line()+
+  geom_point(size=4)+
+  #ylim(0,600)+
+  ggtitle("Quarter 2 2022")+
+  geom_vline(xintercept = as.numeric(as.Date("2021-10-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-11-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-01-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-02-28")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-05-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-07-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-08-31")), linetype=3)+
+  theme_bw() 
+SOCR_Task_q2
+
+ggsave("AllWorkTypes_Q2_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
+SOCR_work_by_Task_Type_Agg_Q1 <- subset(SOCR_work_by_Task_Type_Agg_2, SOCR_work_by_Task_Type_Agg_2$Date> "2022-01-01" & SOCR_work_by_Task_Type_Agg_2$Date < "2022-03-31")
+
+SOCR_Task_q1 <- ggplot(SOCR_work_by_Task_Type_Agg_Q1, aes(x= Date, y=Agreements, colour=Task))+
+  geom_line()+
+  geom_point(size=4)+
+  #ylim(0,600)+
+  ggtitle("Quarter 1 2022")+
+  geom_vline(xintercept = as.numeric(as.Date("2021-10-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-11-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-01-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-02-28")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-05-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-07-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-08-31")), linetype=3)+
+  theme_bw() 
+SOCR_Task_q1
+
+ggsave("AllWorkTypes_Q1_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
 ###### Q3 
 
 SOCR_work_by_Task_Type_Q3 <- subset(SOCR_work_by_Task_Type, SOCR_work_by_Task_Type$Date> "2022-07-01" & SOCR_work_by_Task_Type$Date < "2022-09-30")
@@ -141,6 +192,100 @@ SOCR_AllTeam_Totals_aug <- ggplot(SOSOCR_work_pp_no_task_aug, aes(x= Date, y=Agr
   facet_grid('User')
 SOCR_AllTeam_Totals_aug
 ggsave("Task_aug_2022.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
+
+
+
+###########
+
+
+SOCR_work_by_Task_Type_Agg_Q1 <- subset(SOCR_work_by_Task_Type_Agg, SOCR_work_by_Task_Type_Agg$Date> "2022-01-01" & SOCR_work_by_Task_Type_Agg$Date < "2022-03-31")
+
+SOCR_Totals_Task_time_Q1 <- ggplot(SOCR_work_by_Task_Type_Agg_Q1, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  # ylim(0,700)+
+  ggtitle("File Counts Per Weekly Work Type Q1")+
+  geom_vline(xintercept = as.numeric(as.Date("2022-01-01")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-01")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-07-01")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-09-30")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-10-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-11-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-02-01")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-03-01")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-06-01")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-08-01")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-09-01")), linetype=3)+
+  theme_bw() +
+  facet_grid('Task')
+SOCR_Totals_Task_time_Q1
+
+ggsave("AllTaskType_Q1.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
+SOCR_work_by_Task_Type_Agg_H1 <- subset(SOCR_work_by_Task_Type_Agg, SOCR_work_by_Task_Type_Agg$Date> "2022-01-01" & SOCR_work_by_Task_Type_Agg$Date < "2022-06-30")
+
+
+SOCR_Totals_Task_time_H1 <- ggplot(SOCR_work_by_Task_Type_Agg_H1, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  # ylim(0,700)+
+  ggtitle("File Counts Per Weekly Work Type H1")+
+  geom_vline(xintercept = as.numeric(as.Date("2022-01-01")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-01")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-07-01")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-09-30")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-10-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-11-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-02-01")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-03-01")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-06-01")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-08-01")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-09-01")), linetype=3)+
+  theme_bw() +
+  facet_grid('Task')
+SOCR_Totals_Task_time_H1
+
+ggsave("AllTaskType_H1.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
+
+
+SOCR_work_by_Task_Type_Agg_H1 <- subset(SOCR_work_by_Task_Type_Agg, SOCR_work_by_Task_Type_Agg$Date> "2022-04-01" & SOCR_work_by_Task_Type_Agg$Date < "2022-06-30")
+
+
+SOCR_Totals_Task_time <- ggplot(SOCR_work_by_Task_Type_Agg, aes(x= Date, y=Agreements))+
+  geom_line()+
+  geom_point(size=4)+
+  # ylim(0,700)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-09-30")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-10-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-11-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-01-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-02-28")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-05-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-07-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-08-31")), linetype=3)+
+  theme_bw() +
+  facet_grid('Task')
+SOCR_Totals_Task_time
+
+ggsave("AllTaskType.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
+
+
+
+
+
 
 
 ###### Client based QBRs

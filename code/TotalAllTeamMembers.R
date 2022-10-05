@@ -43,16 +43,43 @@ ggsave("All_members_totals_TaskType.png", plot = last_plot(), height = 10, width
 SOCR_work_by_Task_Type_Agg  <- aggregate(SOCR_work_by_Task_Type["Agreements"], by = list(SOCR_work_by_Task_Type$Date, SOCR_work_by_Task_Type$Task ), FUN = sum)
 
 
+
 SOCR_work_by_Task_Type_Agg<-SOCR_work_by_Task_Type_Agg %>%
   rename( 'Date'=Group.1,
           'Task' = Group.2,
           "Agreements"= Agreements)
 
 
+SOCR_Totals_SamePlot <- ggplot(SOCR_work_by_Task_Type_Agg, aes(x= Date, y=Agreements, colour=Task))+
+  geom_line()+
+  geom_point(size=4)+
+  ylim(0,600)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-09-30")), linetype=1)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-10-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2021-11-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-01-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-02-28")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-04-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-05-31")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-07-30")), linetype=3)+
+  geom_vline(xintercept = as.numeric(as.Date("2022-08-31")), linetype=3)+
+  theme_bw() 
+SOCR_Totals_SamePlot
+
+ggsave("AllTaskTypeTime_ylim.png", plot = last_plot(), height = 10, width = 12, units = "in")
+
+
+
+
+
+
 SOCR_Totals_Task_time <- ggplot(SOCR_work_by_Task_Type_Agg, aes(x= Date, y=Agreements))+
   geom_line()+
   geom_point(size=4)+
-  ylim(0,700)+
+ # ylim(0,700)+
   geom_vline(xintercept = as.numeric(as.Date("2021-12-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-03-31")), linetype=1)+
   geom_vline(xintercept = as.numeric(as.Date("2022-06-30")), linetype=1)+
@@ -69,7 +96,7 @@ SOCR_Totals_Task_time <- ggplot(SOCR_work_by_Task_Type_Agg, aes(x= Date, y=Agree
   facet_grid('Task')
 SOCR_Totals_Task_time
 
-ggsave("AllTaskType-ylim.png", plot = last_plot(), height = 10, width = 12, units = "in")
+ggsave("AllTaskType.png", plot = last_plot(), height = 10, width = 12, units = "in")
 
 
 
